@@ -1,0 +1,722 @@
+[
+    {
+        "isbn": {
+            "S": "1000000101"
+        },
+        "author": {
+            "S": "Haruki Murakami"
+        },
+        "description": {
+            "S": "A surreal journey through the minds of two characters who share a unique connection."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Contemporary"
+        },
+        "price": {
+            "N": "15.99"
+        },
+        "quantity": {
+            "N": "18"
+        },
+        "rating": {
+            "N": "4.5"
+        },
+        "reviews": {
+            "SS": [
+                "A mesmerizing exploration of interconnectedness and existentialism.",
+                "Haruki Murakami's writing is both enigmatic and thought-provoking.",
+                "A novel that blurs the lines between reality and dreams."
+            ]
+        },
+        "title": {
+            "S": "Kafka on the Shore"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000102"
+        },
+        "author": {
+            "S": "Celeste Ng"
+        },
+        "description": {
+            "S": "A tale of family, secrets, and the intricacies of motherhood."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Contemporary"
+        },
+        "price": {
+            "N": "15.99"
+        },
+        "quantity": {
+            "N": "18"
+        },
+        "rating": {
+            "N": "4.6"
+        },
+        "reviews": {
+            "SS": [
+                "A powerful exploration of race and identity.",
+                "Celeste Ng's storytelling is both evocative and emotionally charged.",
+                "A must-read for those who enjoy family dramas with a social twist."
+            ]
+        },
+        "title": {
+            "S": "Little Fires Everywhere"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000103"
+        },
+        "author": {
+            "S": "Tara Westover"
+        },
+        "description": {
+            "S": "An incredible memoir of a woman who grows up in a strict and abusive household but goes on to earn a PhD from Cambridge University."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Contemporary"
+        },
+        "price": {
+            "N": "16.99"
+        },
+        "quantity": {
+            "N": "15"
+        },
+        "rating": {
+            "N": "4.7"
+        },
+        "reviews": {
+            "SS": [
+                "An inspiring and harrowing journey of self-discovery.",
+                "Tara Westover's resilience shines through in this remarkable story.",
+                "A testament to the power of education and determination."
+            ]
+        },
+        "title": {
+            "S": "Educated"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000104"
+        },
+        "author": {
+            "S": "Meg Wolitzer"
+        },
+        "description": {
+            "S": "A novel about the complexities of female friendship and ambition."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Contemporary"
+        },
+        "price": {
+            "N": "13.79"
+        },
+        "quantity": {
+            "N": "21"
+        },
+        "rating": {
+            "N": "4.3"
+        },
+        "reviews": {
+            "SS": [
+                "An exploration of feminism, power, and relationships.",
+                "Meg Wolitzer's storytelling is insightful and thought-provoking.",
+                "A book that will resonate with women of all ages."
+            ]
+        },
+        "title": {
+            "S": "The Female Persuasion"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000105"
+        },
+        "author": {
+            "S": "Leila Slimani"
+        },
+        "description": {
+            "S": "A chilling and suspenseful tale of a nanny's role in a family's life."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Contemporary"
+        },
+        "price": {
+            "N": "12.95"
+        },
+        "quantity": {
+            "N": "19"
+        },
+        "rating": {
+            "N": "4.1"
+        },
+        "reviews": {
+            "SS": [
+                "A psychological thriller that keeps you on the edge of your seat.",
+                "Leila Slimani's writing is both haunting and masterful.",
+                "An exploration of the darker aspects of human nature."
+            ]
+        },
+        "title": {
+            "S": "The Perfect Nanny"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000106"
+        },
+        "author": {
+            "S": "Tommy Orange"
+        },
+        "description": {
+            "S": "A powerful narrative that weaves together the lives of Native Americans in Oakland, California."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Contemporary"
+        },
+        "price": {
+            "N": "14.99"
+        },
+        "quantity": {
+            "N": "20"
+        },
+        "rating": {
+            "N": "4.5"
+        },
+        "reviews": {
+            "SS": [
+                "A unique and compelling perspective on urban Native American life.",
+                "Tommy Orange's storytelling is poetic and eye-opening.",
+                "A novel that explores identity, culture, and the search for belonging."
+            ]
+        },
+        "title": {
+            "S": "There There"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000107"
+        },
+        "author": {
+            "S": "Sally Rooney"
+        },
+        "description": {
+            "S": "A complex and subtle love story that explores the intricacies of human connection."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Contemporary"
+        },
+        "price": {
+            "N": "15.49"
+        },
+        "quantity": {
+            "N": "17"
+        },
+        "rating": {
+            "N": "4.4"
+        },
+        "reviews": {
+            "SS": [
+                "A beautifully written exploration of modern love.",
+                "Sally Rooney's prose is both sharp and emotionally resonant.",
+                "An introspective look at the dynamics of relationships."
+            ]
+        },
+        "title": {
+            "S": "Conversations with Friends"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000108"
+        },
+        "author": {
+            "S": "Elizabeth Strout"
+        },
+        "description": {
+            "S": "A collection of interconnected stories about the people of a small town in Illinois."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Contemporary"
+        },
+        "price": {
+            "N": "16.99"
+        },
+        "quantity": {
+            "N": "15"
+        },
+        "rating": {
+            "N": "4.3"
+        },
+        "reviews": {
+            "SS": [
+                "A masterful portrayal of the human experience in a small town.",
+                "Elizabeth Strout's writing is both poignant and empathetic.",
+                "A book that delves into the lives of ordinary people with extraordinary stories."
+            ]
+        },
+        "title": {
+            "S": "Olive Kitteridge"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000109"
+        },
+        "author": {
+            "S": "Liane Moriarty"
+        },
+        "description": {
+            "S": "A story of secrets, lies, and the consequences of keeping the truth hidden."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Contemporary"
+        },
+        "price": {
+            "N": "14.95"
+        },
+        "quantity": {
+            "N": "20"
+        },
+        "rating": {
+            "N": "4.6"
+        },
+        "reviews": {
+            "SS": [
+                "A gripping exploration of the complexities of human relationships.",
+                "Liane Moriarty's storytelling is suspenseful and emotionally charged.",
+                "A page-turner that will keep you guessing until the end."
+            ]
+        },
+        "title": {
+            "S": "Big Little Lies"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000110"
+        },
+        "author": {
+            "S": "A.J. Finn"
+        },
+        "description": {
+            "S": "A psychological thriller about an agoraphobic woman who believes she has witnessed a crime."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Contemporary"
+        },
+        "price": {
+            "N": "13.99"
+        },
+        "quantity": {
+            "N": "18"
+        },
+        "rating": {
+            "N": "4.2"
+        },
+        "reviews": {
+            "SS": [
+                "A gripping and suspenseful narrative with an unreliable narrator.",
+                "A.J. Finn's writing is both chilling and psychologically complex.",
+                "A thriller that will keep you on the edge of your seat."
+            ]
+        },
+        "title": {
+            "S": "The Woman in the Window"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000111"
+        },
+        "author": {
+            "S": "Jodi Picoult"
+        },
+        "description": {
+            "S": "A gripping story that delves into moral dilemmas, family secrets, and the consequences of choices."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Contemporary"
+        },
+        "price": {
+            "N": "16.95"
+        },
+        "quantity": {
+            "N": "22"
+        },
+        "rating": {
+            "N": "4.4"
+        },
+        "reviews": {
+            "SS": [
+                "A compelling narrative that challenges the reader's beliefs and values.",
+                "Jodi Picoult's writing is both thought-provoking and emotionally resonant.",
+                "A book that explores the gray areas of right and wrong."
+            ]
+        },
+        "title": {
+            "S": "The Book of Two Ways"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000112"
+        },
+        "author": {
+            "S": "Gillian Flynn"
+        },
+        "description": {
+            "S": "A psychological thriller about the mysterious disappearance of a woman and the secrets that come to light."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Contemporary"
+        },
+        "price": {
+            "N": "14.79"
+        },
+        "quantity": {
+            "N": "19"
+        },
+        "rating": {
+            "N": "4.3"
+        },
+        "reviews": {
+            "SS": [
+                "A dark and suspenseful narrative that keeps you guessing.",
+                "Gillian Flynn's writing is both twisted and brilliantly crafted.",
+                "A thriller that will keep you on the edge of your seat until the last page."
+            ]
+        },
+        "title": {
+            "S": "Gone Girl"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000113"
+        },
+        "author": {
+            "S": "Donna Tartt"
+        },
+        "description": {
+            "S": "A coming-of-age story of a young boy who becomes entangled in a world of art, obsession, and deception."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Contemporary"
+        },
+        "price": {
+            "N": "16.49"
+        },
+        "quantity": {
+            "N": "15"
+        },
+        "rating": {
+            "N": "4.4"
+        },
+        "reviews": {
+            "SS": [
+                "A beautifully written and engrossing narrative.",
+                "Donna Tartt's storytelling is both immersive and intellectually stimulating.",
+                "A novel that explores the darker aspects of human nature and the power of art."
+            ]
+        },
+        "title": {
+            "S": "The Goldfinch"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000114"
+        },
+        "author": {
+            "S": "Kristin Hannah"
+        },
+        "description": {
+            "S": "A story of two sisters in France during World War II, their struggles, and their unbreakable bond."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Contemporary"
+        },
+        "price": {
+            "N": "14.95"
+        },
+        "quantity": {
+            "N": "20"
+        },
+        "rating": {
+            "N": "4.6"
+        },
+        "reviews": {
+            "SS": [
+                "A moving and emotional journey through history and family.",
+                "Kristin Hannah's writing is both poignant and heartwarming.",
+                "A novel that celebrates the strength of sisterhood."
+            ]
+        },
+        "title": {
+            "S": "The Nightingale"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000115"
+        },
+        "author": {
+            "S": "Delia Owens"
+        },
+        "description": {
+            "S": "A mystery and coming-of-age novel set in the marshes of North Carolina."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Contemporary"
+        },
+        "price": {
+            "N": "14.95"
+        },
+        "quantity": {
+            "N": "20"
+        },
+        "rating": {
+            "N": "4.6"
+        },
+        "reviews": {
+            "SS": [
+                "A captivating and atmospheric story that transports you to the marshes of North Carolina.",
+                "Delia Owens' writing is both lyrical and evocative of the natural world.",
+                "A novel that combines mystery, nature, and the human spirit."
+            ]
+        },
+        "title": {
+            "S": "Where the Crawdads Sing"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000116"
+        },
+        "author": {
+            "S": "Celeste Ng"
+        },
+        "description": {
+            "S": "A compelling story of motherhood, identity, and the search for belonging."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Contemporary"
+        },
+        "price": {
+            "N": "15.99"
+        },
+        "quantity": {
+            "N": "18"
+        },
+        "rating": {
+            "N": "4.4"
+        },
+        "reviews": {
+            "SS": [
+                "A thought-provoking exploration of societal expectations and mother-daughter relationships.",
+                "Celeste Ng's storytelling is emotionally resonant and beautifully crafted.",
+                "A novel that will leave you reflecting on the complexities of family."
+            ]
+        },
+        "title": {
+            "S": "Everything I Never Told You"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000117"
+        },
+        "author": {
+            "S": "Hanya Yanagihara"
+        },
+        "description": {
+            "S": "A heart-wrenching epic about friendship, trauma, and the human capacity for resilience."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Contemporary"
+        },
+        "price": {
+            "N": "17.49"
+        },
+        "quantity": {
+            "N": "16"
+        },
+        "rating": {
+            "N": "4.8"
+        },
+        "reviews": {
+            "SS": [
+                "A masterful exploration of the endurance of friendship in the face of adversity.",
+                "Hanya Yanagihara's writing is emotionally gripping and deeply affecting.",
+                "A novel that will stay with you long after you've finished reading."
+            ]
+        },
+        "title": {
+            "S": "A Little Life"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000118"
+        },
+        "author": {
+            "S": "Sally Rooney"
+        },
+        "description": {
+            "S": "A story of friendship, love, and the complexities of human connection."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Contemporary"
+        },
+        "price": {
+            "N": "14.95"
+        },
+        "quantity": {
+            "N": "19"
+        },
+        "rating": {
+            "N": "4.2"
+        },
+        "reviews": {
+            "SS": [
+                "Sally Rooney's exploration of love and friendship is both insightful and relatable.",
+                "An intimate portrayal of the intricacies of human relationships.",
+                "A book that will make you ponder the connections that define us."
+            ]
+        },
+        "title": {
+            "S": "Normal People"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000119"
+        },
+        "author": {
+            "S": "Tayari Jones"
+        },
+        "description": {
+            "S": "A novel that delves into the complexities of love, marriage, and racial injustice in contemporary America."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Contemporary"
+        },
+        "price": {
+            "N": "16.99"
+        },
+        "quantity": {
+            "N": "15"
+        },
+        "rating": {
+            "N": "4.4"
+        },
+        "reviews": {
+            "SS": [
+                "Tayari Jones' storytelling is a powerful exploration of societal issues and personal relationships.",
+                "A thought-provoking narrative that will leave you emotionally engaged.",
+                "A book that shines a light on the challenges of love and racial disparities."
+            ]
+        },
+        "title": {
+            "S": "An American Marriage"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000120"
+        },
+        "author": {
+            "S": "Zadie Smith"
+        },
+        "description": {
+            "S": "A novel that explores the lives of two girls who become friends in North West London and navigate the complexities of race, class, and identity."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Contemporary"
+        },
+        "price": {
+            "N": "16.99"
+        },
+        "quantity": {
+            "N": "15"
+        },
+        "rating": {
+            "N": "4.4"
+        },
+        "reviews": {
+            "SS": [
+                "A thought-provoking exploration of cultural diversity and friendship.",
+                "Zadie Smith's writing is both insightful and rich in social commentary.",
+                "A novel that delves into the tapestry of modern urban life."
+            ]
+        },
+        "title": {
+            "S": "Swing Time"
+        }
+    }
+]

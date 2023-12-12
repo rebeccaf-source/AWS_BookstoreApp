@@ -1,0 +1,725 @@
+{
+    "books": [
+      {
+        "isbn": {
+          "S": "10000000201"
+        },
+        "author": {
+          "S": "Alice Johnson"
+        },
+        "description": {
+          "S": "A gripping memoir of a woman who overcame adversity to become a prominent advocate for criminal justice reform."
+        },
+        "fiction?": {
+          "BOOL": false
+        },
+        "genre": {
+          "S": "Memoir"
+        },
+        "price": {
+          "N": "19.99"
+        },
+        "quantity": {
+          "N": "100"
+        },
+        "rating": {
+          "N": "4.7"
+        },
+        "reviews": {
+          "SS": [
+            "A compelling story that left me in awe.",
+            "I couldn't put this book down; it's a must-read!",
+            "Alice Johnson's journey is truly inspirational."
+          ]
+        },
+        "title": {
+          "S": "Breaking the Chains"
+        }
+      },
+      {
+        "isbn": {
+          "S": "10000000202"
+        },
+        "author": {
+          "S": "Michael Smith"
+        },
+        "description": {
+          "S": "A heartfelt story of a man's journey from addiction to recovery and redemption."
+        },
+        "fiction?": {
+          "BOOL": false
+        },
+        "genre": {
+          "S": "Memoir"
+        },
+        "price": {
+          "N": "14.99"
+        },
+        "quantity": {
+          "N": "75"
+        },
+        "rating": {
+          "N": "4.5"
+        },
+        "reviews": {
+          "SS": [
+            "Michael Smith's honesty is touching.",
+            "A moving account of redemption and hope.",
+            "This memoir is a powerful testament to the human spirit."
+          ]
+        },
+        "title": {
+          "S": "From Rock Bottom to Redemption"
+        }
+      },
+      {
+        "isbn": {
+          "S": "10000000203"
+        },
+        "author": {
+          "S": "Sarah Turner"
+        },
+        "description": {
+          "S": "An inspiring memoir of a woman who traveled the world solo, seeking self-discovery and adventure."
+        },
+        "fiction?": {
+          "BOOL": false
+        },
+        "genre": {
+          "S": "Memoir"
+        },
+        "price": {
+          "N": "21.99"
+        },
+        "quantity": {
+          "N": "60"
+        },
+        "rating": {
+          "N": "4.8"
+        },
+        "reviews": {
+          "SS": [
+            "Sarah Turner's journey is a wanderlust's dream.",
+            "A captivating adventure from start to finish.",
+            "I felt like I was traveling alongside Sarah."
+          ]
+        },
+        "title": {
+          "S": "Wanderlust Chronicles"
+        }
+      },
+      {
+        "isbn": {
+          "S": "10000000204"
+        },
+        "author": {
+          "S": "John Anderson"
+        },
+        "description": {
+          "S": "A moving account of a military veteran's experiences in combat and the challenges of returning to civilian life."
+        },
+        "fiction?": {
+          "BOOL": false
+        },
+        "genre": {
+          "S": "Memoir"
+        },
+        "price": {
+          "N": "16.99"
+        },
+        "quantity": {
+          "N": "80"
+        },
+        "rating": {
+          "N": "4.6"
+        },
+        "reviews": {
+          "SS": [
+            "An eye-opening perspective on the realities of war.",
+            "John Anderson's courage is commendable.",
+            "This memoir sheds light on a veteran's struggle to adapt."
+          ]
+        },
+        "title": {
+          "S": "Soldier's Journey Home"
+        }
+      },
+      {
+        "isbn": {
+          "S": "10000000205"
+        },
+        "author": {
+          "S": "Emily Davis"
+        },
+        "description": {
+          "S": "A memoir that explores the trials and triumphs of a professional athlete's career and personal life."
+        },
+        "fiction?": {
+          "BOOL": false
+        },
+        "genre": {
+          "S": "Memoir"
+        },
+        "price": {
+          "N": "23.99"
+        },
+        "quantity": {
+          "N": "50"
+        },
+        "rating": {
+          "N": "4.9"
+        },
+        "reviews": {
+          "SS": [
+            "Emily Davis is a true inspiration to athletes.",
+            "A captivating behind-the-scenes look at sports and life.",
+            "I couldn't get enough of this memoir."
+          ]
+        },
+        "title": {
+          "S": "Game Changer: Life on and off the Field"
+        }
+      },
+      {
+        "isbn": {
+          "S": "10000000206"
+        },
+        "author": {
+          "S": "David White"
+        },
+        "description": {
+          "S": "A raw and honest account of a recovering addict's journey to sobriety and a better life."
+        },
+        "fiction?": {
+          "BOOL": false
+        },
+        "genre": {
+          "S": "Memoir"
+        },
+        "price": {
+          "N": "13.99"
+        },
+        "quantity": {
+          "N": "70"
+        },
+        "rating": {
+          "N": "4.4"
+        },
+        "reviews": {
+          "SS": [
+            "David White's story is a testament to resilience.",
+            "A must-read for anyone on a journey to sobriety.",
+            "I couldn't put this memoir down."
+          ]
+        },
+        "title": {
+          "S": "Breaking Free: A Journey to Sobriety"
+        }
+      },
+      {
+        "isbn": {
+          "S": "10000000207"
+        },
+        "author": {
+          "S": "Linda Johnson"
+        },
+        "description": {
+          "S": "A memoir of a woman who survived a near-death experience and emerged with a new perspective on life."
+        },
+        "fiction?": {
+          "BOOL": false
+        },
+        "genre": {
+          "S": "Memoir"
+        },
+        "price": {
+          "N": "17.99"
+        },
+        "quantity": {
+          "N": "90"
+        },
+        "rating": {
+          "N": "4.7"
+        },
+        "reviews": {
+          "SS": [
+            "Linda Johnson's resilience is truly inspiring.",
+            "A story of hope and transformation.",
+            "This memoir will leave you with a fresh outlook on life."
+          ]
+        },
+        "title": {
+          "S": "Resilience: Embracing Life's Second Chance"
+        }
+      },
+      {
+        "isbn": {
+          "S": "10000000208"
+        },
+        "author": {
+          "S": "Robert Turner"
+        },
+        "description": {
+          "S": "A poignant account of a man's struggle with mental illness and his journey toward healing and self-acceptance."
+        },
+        "fiction?": {
+          "BOOL": false
+        },
+        "genre": {
+          "S": "Memoir"
+        },
+        "price": {
+          "N": "15.99"
+        },
+        "quantity": {
+          "N": "85"
+        },
+        "rating": {
+          "N": "4.6"
+        },
+        "reviews": {
+          "SS": [
+            "Robert Turner's story is a brave and necessary conversation starter.",
+            "An emotional journey of healing and self-discovery.",
+            "This memoir touched my heart deeply."
+          ]
+        },
+        "title": {
+          "S": "Battling the Shadows"
+        }
+      },
+      {
+        "isbn": {
+          "S": "10000000209"
+        },
+        "author": {
+          "S": "Sophia Carter"
+        },
+        "description": {
+          "S": "An intimate memoir that delves into the complexities of love, loss, and family dynamics."
+        },
+        "fiction?": {
+          "BOOL": false
+        },
+        "genre": {
+          "S": "Memoir"
+        },
+        "price": {
+          "N": "18.99"
+        },
+        "quantity": {
+          "N": "65"
+        },
+        "rating": {
+          "N": "4.8"
+        },
+        "reviews": {
+          "SS": [
+            "Sophia Carter's words resonated deeply with me.",
+            "A compelling exploration of life's intricate relationships.",
+            "I was moved by this memoir's emotional depth."
+          ]
+        },
+        "title": {
+          "S": "In the Family Fold"
+        }
+      },
+      {
+        "isbn": {
+          "S": "10000000210"
+        },
+        "author": {
+          "S": "William Martin"
+        },
+        "description": {
+          "S": "A memoir of a man who spent a year living off the grid, disconnected from the modern world."
+        },
+        "fiction?": {
+          "BOOL": false
+        },
+        "genre": {
+          "S": "Memoir"
+        },
+        "price": {
+          "N": "20.99"
+        },
+        "quantity": {
+          "N": "55"
+        },
+        "rating": {
+          "N": "4.5"
+        },
+        "reviews": {
+          "SS": [
+            "William Martin's journey is an escape from the ordinary.",
+            "A thought-provoking tale of solitude and self-discovery.",
+            "This memoir will make you question the modern world."
+          ]
+        },
+        "title": {
+          "S": "Off the Grid: A Year in Solitude"
+        }
+      },
+      {
+        "isbn": {
+          "S": "10000000211"
+        },
+        "author": {
+          "S": "Ella Williams"
+        },
+        "description": {
+          "S": "A compelling story of a woman's escape from an abusive relationship and her journey to empowerment."
+        },
+        "fiction?": {
+          "BOOL": false
+        },
+        "genre": {
+          "S": "Memoir"
+        },
+        "price": {
+          "N": "14.99"
+        },
+        "quantity": {
+          "N": "75"
+        },
+        "rating": {
+          "N": "4.7"
+        },
+        "reviews": {
+          "SS": [
+            "Ella Williams' strength and resilience shine through.",
+            "A story of survival and empowerment that will move you.",
+            "I was inspired by this memoir's powerful message."
+          ]
+        },
+        "title": {
+          "S": "Breaking Chains: Finding My Voice"
+        }
+      },
+      {
+        "isbn": {
+          "S": "10000000212"
+        },
+        "author": {
+          "S": "James Parker"
+        },
+        "description": {
+          "S": "A memoir of a musician's rise to fame, the pressures of stardom, and the quest for authenticity."
+        },
+        "fiction?": {
+          "BOOL": false
+        },
+        "genre": {
+          "S": "Memoir"
+        },
+        "price": {
+          "N": "22.99"
+        },
+        "quantity": {
+          "N": "45"
+        },
+        "rating": {
+          "N": "4.9"
+        },
+        "reviews": {
+          "SS": [
+            "James Parker's musical journey is a must-read for fans.",
+            "A raw and honest account of life in the music industry.",
+            "This memoir is a beautiful blend of art and soul."
+          ]
+        },
+        "title": {
+          "S": "From Garage to Grammy: My Musical Odyssey"
+      }
+    },
+      {
+        "isbn": {
+          "S": "10000000213"
+        },
+        "author": {
+          "S": "Grace Nelson"
+        },
+        "description": {
+          "S": "A heartfelt memoir of a woman who found her true calling as a humanitarian, making a difference in the world."
+        },
+        "fiction?": {
+          "BOOL": false
+        },
+        "genre": {
+          "S": "Memoir"
+        },
+        "price": {
+          "N": "19.99"
+        },
+        "quantity": {
+          "N": "70"
+        },
+        "rating": {
+          "N": "4.8"
+        },
+        "reviews": {
+          "SS": [
+            "Grace Nelson's dedication to humanity is awe-inspiring.",
+            "A heartwarming story of making a global impact.",
+            "I couldn't help but be moved by this memoir."
+          ]
+        },
+        "title": {
+          "S": "Bridging Borders: One Woman's Mission"
+      }
+    },
+      {
+        "isbn": {
+          "S": "10000000214"
+        },
+        "author": {
+          "S": "Sophie Wilson"
+        },
+        "description": {
+          "S": "A memoir of a transgender individual's courageous journey toward self-discovery, acceptance, and love."
+        },
+        "fiction?": {
+          "BOOL": false
+        },
+        "genre": {
+          "S": "Memoir"
+        },
+        "price": {
+          "N": "18.99"
+        },
+        "quantity": {
+          "N": "65"
+        },
+        "rating": {
+          "N": "4.8"
+        },
+        "reviews": {
+          "SS": [
+            "Sophie Wilson's courage in self-discovery is admirable.",
+            "An important story of gender identity and acceptance.",
+            "This memoir is a beautiful testament to love and authenticity."
+          ]
+        },
+        "title": {
+          "S": "Transcending Boundaries: My True Self"
+      }
+    },
+      {
+        "isbn": {
+          "S": "10000000215"
+        },
+        "author": {
+          "S": "Paul Mitchell"
+        },
+        "description": {
+          "S": "A memoir of a chef's culinary adventures, from humble beginnings to Michelin-starred kitchens."
+        },
+        "fiction?": {
+          "BOOL": false
+        },
+        "genre": {
+          "S": "Memoir"
+        },
+        "price": {
+          "N": "23.99"
+        },
+        "quantity": {
+          "N": "50"
+        },
+        "rating": {
+          "N": "4.7"
+        },
+        "reviews": {
+          "SS": [
+            "Paul Mitchell's culinary journey is a feast for the senses.",
+            "A mouthwatering tale of gastronomic artistry.",
+            "This memoir is a delight for food enthusiasts."
+          ]
+        },
+        "title": {
+          "S": "A Chef's Culinary Journey"
+      }
+    },
+      {
+        "isbn": {
+          "S": "10000000216"
+        },
+        "author": {
+          "S": "Olivia Carter"
+        },
+        "description": {
+          "S": "A memoir that explores the challenges and triumphs of a single mother's journey to provide for her family."
+        },
+        "fiction?": {
+          "BOOL": false
+        },
+        "genre": {
+          "S": "Memoir"
+        },
+        "price": {
+          "N": "16.99"
+        },
+        "quantity": {
+          "N": "80"
+        },
+        "rating": {
+          "N": "4.7"
+        },
+        "reviews": {
+          "SS": [
+            "Olivia Carter's story is a testament to motherhood's strength.",
+            "A touching and relatable tale of single parenting.",
+            "I was deeply moved by this memoir's honesty."
+          ]
+        },
+        "title": {
+          "S": "Solo Parenting: Navigating Life's Twists"
+      }
+    },
+      {
+        "isbn": {
+          "S": "10000000217"
+        },
+        "author": {
+          "S": "Matthew Green"
+        },
+        "description": {
+          "S": "A memoir of a man's unconventional career path, from corporate cubicles to becoming a world-traveling nomad."
+        },
+        "fiction?": {
+          "BOOL": false
+        },
+        "genre": {
+          "S": "Memoir"
+        },
+        "price": {
+          "N": "21.99"
+        },
+        "quantity": {
+          "N": "55"
+        },
+        "rating": {
+          "N": "4.5"
+        },
+        "reviews": {
+          "SS": [
+            "Matthew Green's journey is an inspiring career shift.",
+            "An exploration of life beyond the nine-to-five grind.",
+            "This memoir will make you question your own path."
+          ]
+        },
+        "title": {
+          "S": "From Suits to Sandals"
+      }
+    },
+      {
+        "isbn": {
+          "S": "10000000218"
+        },
+        "author": {
+          "S": "Sophie Wilson"
+        },
+        "description": {
+          "S": "A memoir of a transgender individual's courageous journey toward self-discovery, acceptance, and love."
+        },
+        "fiction?": {
+          "BOOL": false
+        },
+        "genre": {
+          "S": "Memoir"
+        },
+        "price": {
+          "N": "18.99"
+        },
+        "quantity": {
+          "N": "65"
+        },
+        "rating": {
+          "N": "4.8"
+        },
+        "reviews": {
+          "SS": [
+            "Sophie Wilson's courage in self-discovery is admirable.",
+            "An important story of gender identity and acceptance.",
+            "This memoir is a beautiful testament to love and authenticity."
+          ]
+        },
+        "title": {
+          "S": "Transcending Boundaries: My True Self"
+      }
+    },
+      {
+        "isbn": {
+          "S": "10000000219"
+        },
+        "author": {
+          "S": "Paul Mitchell"
+        },
+        "description": {
+          "S": "A memoir of a chef's culinary adventures, from humble beginnings to Michelin-starred kitchens."
+        },
+        "fiction?": {
+          "BOOL": false
+        },
+        "genre": {
+          "S": "Memoir"
+        },
+        "price": {
+          "N": "23.99"
+        },
+        "quantity": {
+          "N": "50"
+        },
+        "rating": {
+          "N": "4.7"
+        },
+        "reviews": {
+          "SS": [
+            "Paul Mitchell's culinary journey is a feast for the senses.",
+            "A mouthwatering tale of gastronomic artistry.",
+            "This memoir is a delight for food enthusiasts."
+          ]
+        },
+        "title": {
+          "S": "A Chef's Culinary Journey"
+      }
+    },
+      {
+        "isbn": {
+          "S": "10000000220"
+        },
+        "author": {
+          "S": "Daniel Harris"
+        },
+        "description": {
+          "S": "An exhilarating memoir of a backpacker's adventures, from scaling peaks to exploring hidden cultures."
+        },
+        "fiction?": {
+          "BOOL": false
+        },
+        "genre": {
+          "S": "Memoir"
+        },
+        "price": {
+          "N": "17.99"
+        },
+        "quantity": {
+          "N": "95"
+        },
+        "rating": {
+          "N": "4.9"
+        },
+        "reviews": {
+          "SS": [
+            "Daniel Harris' adventures are a thrill-seeker's dream.",
+            "An epic journey through uncharted territories.",
+            "This memoir is a passport to wanderlust."
+          ]
+        },
+        "title": {
+          "S": "Backpacker's Odyssey: Exploring the World"
+      }
+    }
+    ]
+  }
+  

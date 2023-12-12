@@ -1,0 +1,723 @@
+[
+    {
+      "isbn": {
+        "S": "1000000021"
+      },
+      "author": {
+        "S": "Gillian Flynn"
+      },
+      "description": {
+        "S": "A gripping psychological thriller about a woman's sudden disappearance and the dark secrets that surface."
+      },
+      "fiction?": {
+        "BOOL": true
+      },
+      "genre": {
+        "S": "Mystery"
+      },
+      "price": {
+        "N": "13.99"
+      },
+      "quantity": {
+        "N": "15"
+      },
+      "rating": {
+        "N": "4.6"
+      },
+      "reviews": {
+        "SS": [
+          "A suspenseful page-turner with unexpected twists and turns.",
+          "Gillian Flynn's writing keeps you on the edge of your seat throughout the book.",
+          "A must-read for any mystery enthusiast."
+        ]
+      },
+      "title": {
+        "S": "Gone Girl"
+      }
+    },
+    {
+      "isbn": {
+        "S": "1000000022"
+      },
+      "author": {
+        "S": "Stieg Larsson"
+      },
+      "description": {
+        "S": "A journalist and a hacker team up to investigate a decades-old disappearance, uncovering corruption and murder in the process."
+      },
+      "fiction?": {
+        "BOOL": true
+      },
+      "genre": {
+        "S": "Mystery"
+      },
+      "price": {
+        "N": "14.99"
+      },
+      "quantity": {
+        "N": "19"
+      },
+      "rating": {
+        "N": "4.4"
+      },
+      "reviews": {
+        "SS": [
+          "A thrilling and intricate mystery that keeps you guessing until the end.",
+          "Stieg Larsson's storytelling is both engaging and thought-provoking.",
+          "An excellent blend of suspense, intrigue, and social commentary."
+        ]
+      },
+      "title": {
+        "S": "The Girl with the Dragon Tattoo"
+      }
+    },
+    {
+      "isbn": {
+        "S": "1000000023"
+      },
+      "author": {
+        "S": "Dan Brown"
+      },
+      "description": {
+        "S": "A professor and a cryptologist unravel a complex code that leads them on a quest to uncover a religious mystery."
+      },
+      "fiction?": {
+        "BOOL": true
+      },
+      "genre": {
+        "S": "Mystery"
+      },
+      "price": {
+        "N": "12.99"
+      },
+      "quantity": {
+        "N": "17"
+      },
+      "rating": {
+        "N": "4.5"
+      },
+      "reviews": {
+        "SS": [
+          "An intellectual rollercoaster with a gripping plot and fascinating historical details.",
+          "Dan Brown's books are always a thrilling adventure, and this is no exception.",
+          "A puzzle that keeps you engaged from the first page to the last."
+        ]
+      },
+      "title": {
+        "S": "The Da Vinci Code"
+      }
+    },
+    {
+      "isbn": {
+        "S": "1000000024"
+      },
+      "author": {
+        "S": "Thomas Harris"
+      },
+      "description": {
+        "S": "An FBI agent consults with a brilliant but insane serial killer to solve a series of gruesome murders."
+      },
+      "fiction?": {
+        "BOOL": true
+      },
+      "genre": {
+        "S": "Mystery"
+      },
+      "price": {
+        "N": "15.99"
+      },
+      "quantity": {
+        "N": "13"
+      },
+      "rating": {
+        "N": "4.7"
+      },
+      "reviews": {
+        "SS": [
+          "A chilling and suspenseful journey into the mind of a serial killer.",
+          "Thomas Harris' character development and storytelling are exceptional.",
+          "A classic in the thriller genre that still terrifies readers."
+        ]
+      },
+      "title": {
+        "S": "The Silence of the Lambs"
+      }
+    },
+    {
+      "isbn": {
+        "S": "1000000025"
+      },
+      "author": {
+        "S": "Arthur Conan Doyle"
+      },
+      "description": {
+        "S": "Sherlock Holmes and Dr. Watson investigate a legendary supernatural hound that haunts the Baskerville family."
+      },
+      "fiction?": {
+        "BOOL": true
+      },
+      "genre": {
+        "S": "Mystery"
+      },
+      "price": {
+        "N": "11.99"
+      },
+      "quantity": {
+        "N": "16"
+      },
+      "rating": {
+        "N": "4.8"
+      },
+      "reviews": {
+        "SS": [
+          "A timeless classic with brilliant deductions by the famous detective.",
+          "Arthur Conan Doyle's storytelling remains captivating, even after all these years.",
+          "The suspense and atmosphere in this novel are unmatched."
+        ]
+      },
+      "title": {
+        "S": "The Hound of the Baskervilles"
+      }
+    },
+    {
+      "isbn": {
+        "S": "1000000026"
+      },
+      "author": {
+        "S": "Tana French"
+      },
+      "description": {
+        "S": "A detective confronts a traumatic event from his childhood when a young girl's murder in the same woods reopens old wounds."
+      },
+      "fiction?": {
+        "BOOL": true
+      },
+      "genre": {
+        "S": "Mystery"
+      },
+      "price": {
+        "N": "13.49"
+      },
+      "quantity": {
+        "N": "14"
+      },
+      "rating": {
+        "N": "4.3"
+      },
+      "reviews": {
+        "SS": [
+          "Tana French weaves a mesmerizing and emotionally charged mystery.",
+          "A haunting and beautifully written story that lingers in your thoughts.",
+          "A master of psychological suspense, Tana French keeps you guessing until the end."
+        ]
+      },
+      "title": {
+        "S": "In the Woods"
+      }
+    },
+    {
+      "isbn": {
+        "S": "1000000027"
+      },
+      "author": {
+        "S": "Agatha Christie"
+      },
+      "description": {
+        "S": "Hercule Poirot must solve a murder mystery on a luxurious train journey."
+      },
+      "fiction?": {
+        "BOOL": true
+      },
+      "genre": {
+        "S": "Mystery"
+      },
+      "price": {
+        "N": "12.99"
+      },
+      "quantity": {
+        "N": "17"
+      },
+      "rating": {
+        "N": "4.5"
+      },
+      "reviews": {
+        "SS": [
+          "Agatha Christie's classic mystery with a brilliant detective and an unforgettable setting.",
+          "The intricate plot and memorable characters make this a must-read.",
+          "A masterpiece of detective fiction that keeps you guessing until the end."
+        ]
+      },
+      "title": {
+        "S": "Murder on the Orient Express"
+      }
+    },
+    {
+      "isbn": {
+        "S": "1000000028"
+      },
+      "author": {
+        "S": "Dashiell Hammett"
+      },
+      "description": {
+        "S": "Private detective Sam Spade becomes entangled in a hunt for a priceless statue."
+      },
+      "fiction?": {
+        "BOOL": true
+      },
+      "genre": {
+        "S": "Mystery"
+      },
+      "price": {
+        "N": "11.49"
+      },
+      "quantity": {
+        "N": "19"
+      },
+      "rating": {
+        "N": "4.4"
+      },
+      "reviews": {
+        "SS": [
+          "A thrilling and fast-paced detective story with memorable characters.",
+          "Dashiell Hammett's noir style adds a unique flavor to the mystery genre.",
+          "An absolute classic that still holds its own in the world of mystery."
+        ]
+      },
+      "title": {
+        "S": "The Maltese Falcon"
+      }
+    },
+    {
+      "isbn": {
+        "S": "1000000029"
+      },
+      "author": {
+        "S": "Donna Tartt"
+      },
+      "description": {
+        "S": "A group of classics students becomes embroiled in a murder mystery within their own ranks."
+      },
+      "fiction?": {
+        "BOOL": true
+      },
+      "genre": {
+        "S": "Mystery"
+      },
+      "price": {
+        "N": "14.99"
+      },
+      "quantity": {
+        "N": "15"
+      },
+      "rating": {
+        "N": "4.6"
+      },
+      "reviews": {
+        "SS": [
+          "Donna Tartt's prose is mesmerizing, and the mystery is both haunting and beautiful.",
+          "A literary mystery that delves deep into the complexities of human nature.",
+          "A masterpiece that combines suspense with profound character development."
+        ]
+      },
+      "title": {
+        "S": "The Secret History"
+      }
+    },
+    {
+      "isbn": {
+        "S": "1000000030"
+      },
+      "author": {
+        "S": "Robert Galbraith (pseudonym for J.K. Rowling)"
+      },
+      "description": {
+        "S": "Private investigator Cormoran Strike delves into the suicide of a supermodel, only to uncover a complex murder."
+      },
+      "fiction?": {
+        "BOOL": true
+      },
+      "genre": {
+        "S": "Mystery"
+      },
+      "price": {
+        "N": "13.49"
+      },
+      "quantity": {
+        "N": "16"
+      },
+      "rating": {
+        "N": "4.4"
+      },
+      "reviews": {
+        "SS": [
+          "J.K. Rowling's pseudonymous mystery series is a delight for fans of the genre.",
+          "Complex characters and intricate plot twists make this a standout in detective fiction.",
+          "A must-read for those who love classic whodunits with a modern twist."
+        ]
+      },
+      "title": {
+        "S": "The Cuckoo's Calling"
+      }
+    },
+    {
+      "isbn": {
+        "S": "1000000031"
+      },
+      "author": {
+        "S": "Gillian Flynn"
+      },
+      "description": {
+        "S": "Libby Day revisits her family's gruesome murder in a quest for the truth about what happened that night."
+      },
+      "fiction?": {
+        "BOOL": true
+      },
+      "genre": {
+        "S": "Mystery"
+      },
+      "price": {
+        "N": "15.99"
+      },
+      "quantity": {
+        "N": "13"
+      },
+      "rating": {
+        "N": "4.5"
+      },
+      "reviews": {
+        "SS": [
+          "Gillian Flynn's dark and twisted narrative keeps you hooked from start to finish.",
+          "A psychological thriller that delves into the complexity of the human psyche.",
+          "A gripping tale of murder, guilt, and redemption."
+        ]
+      },
+      "title": {
+        "S": "Dark Places"
+      }
+    },
+    {
+      "isbn": {
+        "S": "1000000032"
+      },
+      "author": {
+        "S": "Michael Connelly"
+      },
+      "description": {
+        "S": "Defense attorney Mickey Haller faces a challenging case as he switches to the other side of the courtroom."
+      },
+      "fiction?": {
+        "BOOL": true
+      },
+      "genre": {
+        "S": "Mystery"
+      },
+      "price": {
+        "N": "12.49"
+      },
+      "quantity": {
+        "N": "18"
+      },
+      "rating": {
+        "N": "4.3"
+      },
+      "reviews": {
+        "SS": [
+          "Michael Connelly's legal thriller is a gripping exploration of the justice system.",
+          "A fresh take on the legal mystery genre with well-crafted characters.",
+          "A suspenseful courtroom drama with unexpected twists."
+        ]
+      },
+      "title": {
+        "S": "The Reversal"
+      }
+    },
+    {
+      "isbn": {
+        "S": "1000000033"
+      },
+      "author": {
+        "S": "Alexander McCall Smith"
+      },
+      "description": {
+        "S": "Precious Ramotswe opens Botswana's first female detective agency, solving cases with wit and wisdom."
+      },
+      "fiction?": {
+        "BOOL": true
+      },
+      "genre": {
+        "S": "Mystery"
+      },
+      "price": {
+        "N": "14.99"
+      },
+      "quantity": {
+        "N": "20"
+      },
+      "rating": {
+        "N": "4.7"
+      },
+      "reviews": {
+        "SS": [
+          "Alexander McCall Smith's delightful series is a charming blend of mystery and humor.",
+          "The No. 1 Ladies' Detective Agency is a heartwarming and entertaining journey.",
+          "A unique and uplifting take on the detective genre."
+        ]
+      },
+      "title": {
+        "S": "The No. 1 Ladies' Detective Agency"
+      }
+    },
+    {
+      "isbn": {
+        "S": "1000000034"
+      },
+      "author": {
+        "S": "Louise Penny"
+      },
+      "description": {
+        "S": "Chief Inspector Armand Gamache investigates a suspicious death in a tranquil village with hidden secrets."
+      },
+      "fiction?": {
+        "BOOL": true
+      },
+      "genre": {
+        "S": "Mystery"
+      },
+      "price": {
+        "N": "16.99"
+      },
+      "quantity": {
+        "N": "12"
+      },
+      "rating": {
+        "N": "4.6"
+      },
+      "reviews": {
+        "SS": [
+          "Louise Penny's novels offer a perfect mix of murder and village charm.",
+          "Gamache is a detective you'll root for, making this series a must-read.",
+          "A cozy and atmospheric mystery that captivates readers."
+        ]
+      },
+      "title": {
+        "S": "Still Life"
+      }
+    },
+    {
+      "isbn": {
+        "S": "1000000035"
+      },
+      "author": {
+        "S": "Michael Connelly"
+      },
+      "description": {
+        "S": "A journalist investigates a serial killer who leaves poems at the crime scenes, but the truth is even more sinister."
+      },
+      "fiction?": {
+        "BOOL": true
+      },
+      "genre": {
+        "S": "Mystery"
+      },
+      "price": {
+        "N": "13.99"
+      },
+      "quantity": {
+        "N": "14"
+      },
+      "rating": {
+        "N": "4.4"
+      },
+      "reviews": {
+        "SS": [
+          "Michael Connelly's narrative is as compelling as ever in this thrilling mystery.",
+          "A poetic and suspenseful journey through the mind of a serial killer.",
+          "A blend of journalism and murder mystery that keeps you guessing."
+        ]
+      },
+      "title": {
+        "S": "The Poet"
+      }
+    },
+    {
+      "isbn": {
+        "S": "1000000036"
+      },
+      "author": {
+        "S": "Wilkie Collins"
+      },
+      "description": {
+        "S": "A young art teacher encounters a mysterious woman in white who is the key to a tangled web of deceit."
+      },
+      "fiction?": {
+        "BOOL": true
+      },
+      "genre": {
+        "S": "Mystery"
+      },
+      "price": {
+        "N": "14.49"
+      },
+      "quantity": {
+        "N": "15"
+      },
+      "rating": {
+        "N": "4.2"
+      },
+      "reviews": {
+        "SS": [
+          "Wilkie Collins' classic mystery is a testament to the enduring appeal of the genre.",
+          "The Woman in White is a character-driven masterpiece of suspense.",
+          "A Victorian-era mystery that still enthralls readers today."
+        ]
+      },
+      "title": {
+        "S": "The Woman in White"
+      }
+    },
+    {
+      "isbn": {
+        "S": "1000000037"
+      },
+      "author": {
+        "S": "Michael Connelly"
+      },
+      "description": {
+        "S": "Detective Harry Bosch investigates the death of a fellow Vietnam War veteran, leading to a dangerous conspiracy."
+      },
+      "fiction?": {
+        "BOOL": true
+      },
+      "genre": {
+        "S": "Mystery"
+      },
+      "price": {
+        "N": "11.99"
+      },
+      "quantity": {
+        "N": "17"
+      },
+      "rating": {
+        "N": "4.3"
+      },
+      "reviews": {
+        "SS": [
+          "Michael Connelly's detective Bosch is a character you'll root for, making this series a must-read.",
+          "A gritty and realistic portrayal of police work and the pursuit of justice.",
+          "An engrossing mystery that keeps you turning the pages."
+        ]
+      },
+      "title": {
+        "S": "The Black Echo"
+      }
+    },
+    {
+      "isbn": {
+        "S": "1000000038"
+      },
+      "author": {
+        "S": "Agatha Christie"
+      },
+      "description": {
+        "S": "Tommy and Tuppence are hired to uncover a sinister plot after World War I, leading to international intrigue."
+      },
+      "fiction?": {
+        "BOOL": true
+      },
+      "genre": {
+        "S": "Mystery"
+      },
+      "price": {
+        "N": "12.99"
+      },
+      "quantity": {
+        "N": "16"
+      },
+      "rating": {
+        "N": "4.5"
+      },
+      "reviews": {
+        "SS": [
+          "Agatha Christie's Tommy and Tuppence series is a delightful adventure in the world of mystery.",
+          "A thrilling tale of espionage and post-war intrigue that doesn't disappoint.",
+          "Tommy and Tuppence are lovable characters in this engaging and suspenseful plot."
+        ]
+      },
+      "title": {
+        "S": "The Secret Adversary"
+      }
+    },
+    {
+      "isbn": {
+        "S": "1000000039"
+      },
+      "author": {
+        "S": "Liane Moriarty"
+      },
+      "description": {
+        "S": "Secrets and lies surface in a picturesque seaside town, where murder lurks behind the facade of perfection."
+      },
+      "fiction?": {
+        "BOOL": true
+      },
+      "genre": {
+        "S": "Mystery"
+      },
+      "price": {
+        "N": "15.49"
+      },
+      "quantity": {
+        "N": "13"
+      },
+      "rating": {
+        "N": "4.5"
+      },
+      "reviews": {
+        "SS": [
+          "Liane Moriarty's storytelling is both riveting and emotionally resonant.",
+          "Big Little Lies is a modern mystery with a compelling exploration of human relationships.",
+          "A page-turner that dives deep into the complexities of human nature."
+        ]
+      },
+      "title": {
+        "S": "Big Little Lies"
+      }
+    },
+    {
+      "isbn": {
+        "S": "1000000040"
+      },
+      "author": {
+        "S": "Kate Morton"
+      },
+      "description": {
+        "S": "A family secret buried in the past comes to light, revealing a story of love, war, and betrayal."
+      },
+      "fiction?": {
+        "BOOL": true
+      },
+      "genre": {
+        "S": "Mystery"
+      },
+      "price": {
+        "N": "16.99"
+      },
+      "quantity": {
+        "N": "14"
+      },
+      "rating": {
+        "N": "4.4"
+      },
+      "reviews": {
+        "SS": [
+          "Kate Morton's historical mysteries are always a treat for fans of the genre.",
+          "A tale of secrets, generations, and the enduring impact of the past.",
+          "A haunting and atmospheric mystery that transports you through time."
+        ]
+      },
+      "title": {
+        "S": "The Secret Keeper"
+      }
+    }
+  ]
+  

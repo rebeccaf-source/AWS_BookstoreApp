@@ -1,0 +1,722 @@
+[
+    {
+        "isbn": {
+            "S": "1000000061"
+        },
+        "author": {
+            "S": "J.R.R. Tolkien"
+        },
+        "description": {
+            "S": "The second volume of 'The Lord of the Rings' continues the epic journey of Frodo and his companions as they confront new challenges and dangers in their quest to destroy the One Ring."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Fantasy"
+        },
+        "price": {
+            "N": "15.99"
+        },
+        "quantity": {
+            "N": "19"
+        },
+        "rating": {
+            "N": "4.8"
+        },
+        "reviews": {
+            "SS": [
+                "A thrilling continuation of the epic tale of Middle-earth.",
+                "The Two Towers is a classic of the fantasy genre.",
+                "J.R.R. Tolkien's storytelling is enchanting."
+            ]
+        },
+        "title": {
+            "S": "The Two Towers"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000062"
+        },
+        "author": {
+            "S": "George R.R. Martin"
+        },
+        "description": {
+           "S": "In the second book of the 'A Song of Ice and Fire' series, the Seven Kingdoms continue to experience political turmoil and war as various claimants vie for the Iron Throne."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Fantasy"
+        },
+        "price": {
+            "N": "16.99"
+        },
+        "quantity": {
+            "N": "15"
+        },
+        "rating": {
+            "N": "4.6"
+        },
+        "reviews": {
+            "SS": [
+                "A gripping and complex tale of power and betrayal.",
+                "A Clash of Kings is a must-read for fantasy enthusiasts.",
+                "George R.R. Martin's storytelling is unparalleled."
+            ]
+        },
+        "title": {
+            "S": "A Clash of Kings"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000063"
+        },
+        "author": {
+            "S": "Brandon Sanderson"
+        },
+        "description": {
+            "S": "Vin, a powerful Allomancer, and her allies face new challenges as they work to overthrow the oppressive Lord Ruler and bring hope to a world enslaved by dark forces."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Fantasy"
+        },
+        "price": {
+            "N": "14.99"
+        },
+        "quantity": {
+            "N": "14"
+        },
+        "rating": {
+            "N": "4.7"
+        },
+        "reviews": {
+            "SS": [
+                "A masterful continuation of the Mistborn saga.",
+                "The Well of Ascension is a captivating blend of magic and rebellion.",
+                "Brandon Sanderson's world-building is outstanding."
+            ]
+        },
+        "title": {
+            "S": "The Well of Ascension"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000064"
+        },
+        "author": {
+            "S": "J.K. Rowling"
+        },
+        "description": {
+            "S": "Follow Harry Potter's second year at Hogwarts School of Witchcraft and Wizardry as he uncovers the mystery of the Chamber of Secrets and faces a new dark threat."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Fantasy"
+        },
+        "price": {
+            "N": "12.99"
+        },
+        "quantity": {
+            "N": "17"
+        },
+        "rating": {
+            "N": "4.8"
+        },
+        "reviews": {
+            "SS": [
+                "A magical adventure filled with mystery and danger.",
+                "Harry Potter and the Chamber of Secrets is a beloved classic for all ages.",
+                "J.K. Rowling's storytelling is enchanting."
+            ]
+        },
+        "title": {
+            "S": "Harry Potter and the Chamber of Secrets"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000065"
+        },
+        "author": {
+            "S": "Patrick Rothfuss"
+        },
+        "description": {
+            "S": "Kvothe continues his journey as a gifted musician and magician, delving into the mysteries of the arcane arts and confronting new challenges in a world filled with wonder and danger."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Fantasy"
+        },
+        "price": {
+            "N": "14.49"
+        },
+        "quantity": {
+            "N": "20"
+        },
+        "rating": {
+            "N": "4.6"
+        },
+        "reviews": {
+            "SS": [
+                "A mesmerizing and beautifully written tale of music, magic, and adventure.",
+                "The Wise Man's Fear is a captivating continuation of Kvothe's story.",
+                "Patrick Rothfuss' world-building is exceptional."
+            ]
+        },
+        "title": {
+            "S": "The Wise Man's Fear"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000066"
+        },
+        "author": {
+            "S": "J.R.R. Tolkien"
+        },
+        "description": {
+            "S": "Bilbo Baggins's nephew, Frodo, embarks on a perilous journey to destroy the One Ring, encountering allies and enemies in a quest to save Middle-earth."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Fantasy"
+        },
+        "price": {
+            "N": "13.99"
+        },
+        "quantity": {
+            "N": "16"
+        },
+        "rating": {
+            "N": "4.7"
+        },
+        "reviews": {
+            "SS": [
+                "A timeless tale of adventure and heroism.",
+                "The Fellowship of the Ring is a cherished classic for all ages.",
+                "J.R.R. Tolkien's storytelling is enchanting."
+            ]
+        },
+        "title": {
+            "S": "The Fellowship of the Ring"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000067"
+        },
+        "author": {
+            "S": "Brandon Sanderson"
+        },
+        "description": {
+            "S": "In the city of Elantris, a fallen prince seeks to change the fate of its cursed inhabitants as they discover the power of magic once again."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Fantasy"
+        },
+        "price": {
+            "N": "14.99"
+        },
+        "quantity": {
+            "N": "11"
+        },
+        "rating": {
+            "N": "4.5"
+        },
+        "reviews": {
+            "SS": [
+                "A gripping story of redemption and magic in the city of Elantris.",
+                "Elantris is a unique and engaging fantasy novel.",
+                "Brandon Sanderson's world-building is exceptional."
+            ]
+        },
+        "title": {
+            "S": "Elantris"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000068"
+        },
+        "author": {
+            "S": "Brandon Sanderson"
+        },
+        "description": {
+            "S": "In a world where magical Shardblades exist, a young scholar, Kaladin, must overcome his past and lead a group of soldiers in a war against a powerful enemy."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Fantasy"
+        },
+        "price": {
+            "N": "15.99"
+        },
+        "quantity": {
+            "N": "18"
+        },
+        "rating": {
+            "N": "4.6"
+        },
+        "reviews": {
+            "SS": [
+                "An epic tale of ambition, betrayal, and heroism in the world of Roshar.",
+                "The Way of Kings is a masterful start to a series.",
+                "Brandon Sanderson's world-building is exceptional."
+            ]
+        },
+        "title": {
+            "S": "The Way of Kings"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000069"
+        },
+        "author": {
+            "S": "Scott Lynch"
+        },
+        "description": {
+            "S": "Master thief Locke Lamora and his band of con artists find themselves in a dangerous game of wits and intrigue as they navigate the criminal underworld of Camorr."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Fantasy"
+        },
+        "price": {
+            "N": "13.99"
+        },
+        "quantity": {
+            "N": "9"
+        },
+        "rating": {
+            "N": "4.4"
+        },
+        "reviews": {
+            "SS": [
+                "A thrilling and witty tale of heists and intrigue in the city of Camorr.",
+                "The Lies of Locke Lamora is a gem of the fantasy genre.",
+                "Scott Lynch's storytelling is captivating."
+            ]
+        },
+        "title": {
+            "S": "The Lies of Locke Lamora"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000070"
+        },
+        "author": {
+            "S": "Tad Williams"
+        },
+        "description": {
+            "S": "In a land filled with magic and ancient mysteries, Simon embarks on an epic quest to save his world from the evil forces of the Storm King."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Fantasy"
+        },
+        "price": {
+            "N": "14.49"
+        },
+        "quantity": {
+            "N": "13"
+        },
+        "rating": {
+            "N": "4.5"
+        },
+        "reviews": {
+            "SS": [
+                "An epic fantasy adventure filled with wonder and danger in Osten Ard.",
+                "The Dragonbone Chair is a classic of the genre.",
+                "Tad Williams' world-building is outstanding."
+            ]
+        },
+        "title": {
+            "S": "The Dragonbone Chair"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000071"
+        },
+        "author": {
+            "S": "Erin Morgenstern"
+        },
+        "description": {
+            "S": "Celia and Marco, two young magicians, engage in a magical competition within a mysterious and enchanting circus known as Le Cirque des Rêves, unaware of the consequences of their game."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Fantasy"
+        },
+        "price": {
+            "N": "15.99"
+        },
+        "quantity": {
+            "N": "12"
+        },
+        "rating": {
+            "N": "4.6"
+        },
+        "reviews": {
+            "SS": [
+                "A beautiful and enchanting tale of love and magic within the Night Circus.",
+                "The Night Circus is a masterpiece of storytelling.",
+                "Erin Morgenstern's world is pure magic."
+            ]
+        },
+        "title": {
+            "S": "The Night Circus"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000072"
+        },
+        "author": {
+            "S": "Erika Johansen"
+        },
+        "description": {
+            "S": "Kelsea Raleigh Glynn, the true queen of the Tearling, faces a tumultuous reign as she navigates political intrigue, dark forces, and her destiny as a ruler."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Fantasy"
+        },
+        "price": {
+            "N": "13.99"
+        },
+        "quantity": {
+            "N": "8"
+        },
+        "rating": {
+            "N": "4.5"
+        },
+        "reviews": {
+            "SS": [
+                "A gripping tale of a strong-willed queen and her kingdom in the Tearling.",
+                "The Queen of the Tearling is a must-read for fantasy enthusiasts.",
+                "Erika Johansen's storytelling is captivating."
+            ]
+        },
+        "title": {
+            "S": "The Queen of the Tearling"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000073"
+        },
+        "author": {
+            "S": "David Eddings"
+        },
+        "description": {
+            "S": "A simple farm boy named Garion discovers his magical heritage and embarks on a quest to recover a powerful and dangerous artifact, unaware of the destiny that awaits him."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Fantasy"
+        },
+        "price": {
+            "N": "12.99"
+        },
+        "quantity": {
+            "N": "10"
+        },
+        "rating": {
+            "N": "4.3"
+        },
+        "reviews": {
+            "SS": [
+                "A classic fantasy journey filled with adventure and destiny in the world of Belgariad.",
+                "Pawn of Prophecy is a beloved classic of the genre.",
+                "David Eddings' storytelling is captivating."
+            ]
+        },
+        "title": {
+            "S": "Pawn of Prophecy"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000074"
+        },
+        "author": {
+            "S": "Joe Abercrombie"
+        },
+        "description": {
+            "S": "In a world filled with violence and political intrigue, the lives of a ruthless warrior, a crippled torturer, and a young nobleman intersect in a tale of ambition, betrayal, and survival."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Fantasy"
+        },
+        "price": {
+            "N": "14.49"
+        },
+        "quantity": {
+            "N": "19"
+        },
+        "rating": {
+            "N": "4.2"
+        },
+        "reviews": {
+            "SS": [
+                "A gritty and dark tale of complex characters, moral ambiguity, and conflict in the world of the First Law.",
+                "The Blade Itself is a must-read for fantasy enthusiasts.",
+                "Joe Abercrombie's storytelling is masterful."
+            ]
+        },
+        "title": {
+            "S": "The Blade Itself"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000075"
+        },
+        "author": {
+            "S": "Robert Jordan"
+        },
+        "description": {
+            "S": "In a world teetering on the brink of chaos, three young individuals discover their intertwined destinies and face a battle against the Dark One as the Wheel of Time turns."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Fantasy"
+        },
+        "price": {
+            "N": "15.99"
+        },
+        "quantity": {
+            "N": "14"
+        },
+        "rating": {
+            "N": "4.6"
+        },
+        "reviews": {
+            "SS": [
+                "An epic and sprawling saga of heroism and destiny in the world of the Wheel of Time.",
+                "The Eye of the World is a timeless classic of fantasy.",
+                "Robert Jordan's world-building is exceptional."
+            ]
+        },
+        "title": {
+            "S": "The Eye of the World"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000076"
+        },
+        "author": {
+            "S": "Neil Gaiman"
+        },
+        "description": {
+            "S": "A man returns to his childhood home and reflects on his encounters with a mysterious neighbor and a supernatural world hidden at the end of the lane."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Fantasy"
+        },
+        "price": {
+            "N": "13.99"
+        },
+        "quantity": {
+            "N": "13"
+        },
+        "rating": {
+            "N": "4.5"
+        },
+        "reviews": {
+            "SS": [
+                "A beautifully written and hauntingly atmospheric tale of childhood and magic.",
+                "The Ocean at the End of the Lane is a modern fantasy classic.",
+                "Neil Gaiman's storytelling is enchanting."
+            ]
+        },
+        "title": {
+            "S": "The Ocean at the End of the Lane"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000077"
+        },
+        "author": {
+            "S": "Susanna Clarke"
+        },
+        "description": {
+            "S": "In an alternate history of England, two magicians revive the practice of practical magic, leading to a battle of egos and a world-changing transformation."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Fantasy"
+        },
+        "price": {
+            "N": "16.99"
+        },
+        "quantity": {
+            "N": "12"
+        },
+        "rating": {
+            "N": "4.4"
+        },
+        "reviews": {
+            "SS": [
+                "A richly imagined and intellectually stimulating work of fantasy and magic.",
+                "Jonathan Strange & Mr. Norrell is a masterpiece of the genre.",
+                "Susanna Clarke's world-building is outstanding."
+            ]
+        },
+        "title": {
+            "S": "Jonathan Strange & Mr. Norrell"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000078"
+        },
+        "author": {
+            "S": "Peter V. Brett"
+        },
+        "description": {
+            "S": "In a world plagued by demons that rise at night, three individuals must find a way to fight back and protect humanity from extinction, or risk the world falling into darkness."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Fantasy"
+        },
+        "price": {
+            "N": "14.99"
+        },
+        "quantity": {
+            "N": "15"
+        },
+        "rating": {
+            "N": "4.5"
+        },
+        "reviews": {
+            "SS": [
+                "A thrilling and dark tale of survival and heroism in a world on the brink of collapse.",
+                "The Warded Man is a captivating fantasy epic.",
+                "Peter V. Brett's storytelling is masterful."
+            ]
+        },
+        "title": {
+            "S": "The Warded Man"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000079"
+        },
+        "author": {
+            "S": "C.S. Lewis"
+        },
+        "description": {
+            "S": "Four siblings stumble upon a magical wardrobe that leads to the enchanting land of Narnia, where they must battle the evil White Witch with the help of the lion, Aslan."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Fantasy"
+        },
+        "price": {
+            "N": "12.99"
+        },
+        "quantity": {
+            "N": "17"
+        },
+        "rating": {
+            "N": "4.7"
+        },
+        "reviews": {
+            "SS": [
+                "A timeless and beloved tale of adventure, friendship, and courage in the land of Narnia.",
+                "The Lion, the Witch and the Wardrobe is a classic for all ages.",
+                "C.S. Lewis' storytelling is enchanting."
+            ]
+        },
+        "title": {
+            "S": "The Lion, the Witch and the Wardrobe"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000080"
+        },
+        "author": {
+            "S": "C.S. Lewis"
+        },
+        "description": {
+            "S": "In the magical world of Narnia, two children discover the origins of this enchanted land and witness the creation of its wondrous creatures and mysteries."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Fantasy"
+        },
+        "price": {
+            "N": "11.99"
+        },
+        "quantity": {
+            "N": "10"
+        },
+        "rating": {
+            "N": "4.6"
+        },
+        "reviews": {
+            "SS": [
+                "An enchanting and whimsical prelude to the wonders of Narnia.",
+                "The Magician's Nephew is a classic of children's literature.",
+                "C.S. Lewis' storytelling is timeless."
+            ]
+        },
+        "title": {
+            "S": "The Magician's Nephew"
+        }
+    }
+]

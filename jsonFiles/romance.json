@@ -1,0 +1,722 @@
+[
+    {
+        "isbn": {
+            "S": "1000000121"
+        },
+        "author": {
+            "S": "Nicholas Sparks"
+        },
+        "description": {
+            "S": "A heartwarming love story set in a small coastal town."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Romance"
+        },
+        "price": {
+            "N": "14.99"
+        },
+        "quantity": {
+            "N": "20"
+        },
+        "rating": {
+            "N": "4.5"
+        },
+        "reviews": {
+            "SS": [
+                "A classic tale of love and destiny.",
+                "Nicholas Sparks' writing is deeply emotional.",
+                "A romance that will tug at your heartstrings."
+            ]
+        },
+        "title": {
+            "S": "The Notebook"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000122"
+        },
+        "author": {
+            "S": "Jojo Moyes"
+        },
+        "description": {
+            "S": "An emotional journey of two people from different worlds brought together by fate."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Romance"
+        },
+        "price": {
+            "N": "15.49"
+        },
+        "quantity": {
+            "N": "18"
+        },
+        "rating": {
+            "N": "4.4"
+        },
+        "reviews": {
+            "SS": [
+                "A beautifully written and poignant love story.",
+                "Jojo Moyes' storytelling is both moving and heartwarming.",
+                "An exploration of love's transformative power."
+            ]
+        },
+        "title": {
+            "S": "Me Before You"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000123"
+        },
+        "author": {
+            "S": "Colleen Hoover"
+        },
+        "description": {
+            "S": "A contemporary romance that explores love, loss, and second chances."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Romance"
+        },
+        "price": {
+            "N": "13.95"
+        },
+        "quantity": {
+            "N": "22"
+        },
+        "rating": {
+            "N": "4.3"
+        },
+        "reviews": {
+            "SS": [
+                "A rollercoaster of emotions and love.",
+                "Colleen Hoover's writing is addictive and emotional.",
+                "A tale of love that knows no bounds."
+            ]
+        },
+        "title": {
+            "S": "It Ends with Us"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000124"
+        },
+        "author": {
+            "S": "E.L. James"
+        },
+        "description": {
+            "S": "An intoxicating and passionate romance that pushes boundaries."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Romance"
+        },
+        "price": {
+            "N": "14.79"
+        },
+        "quantity": {
+            "N": "19"
+        },
+        "rating": {
+            "N": "4.2"
+        },
+        "reviews": {
+            "SS": [
+                "A passionate and steamy love story.",
+                "E.L. James' writing is provocative and enticing.",
+                "A romance that challenges conventions."
+            ]
+        },
+        "title": {
+            "S": "Fifty Shades of Grey"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000125"
+        },
+        "author": {
+            "S": "Julia Quinn"
+        },
+        "description": {
+            "S": "A delightful historical romance filled with humor and wit."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Romance"
+        },
+        "price": {
+            "N": "12.95"
+        },
+        "quantity": {
+            "N": "20"
+        },
+        "rating": {
+            "N": "4.6"
+        },
+        "reviews": {
+            "SS": [
+                "A charming and witty Regency romance.",
+                "Julia Quinn's writing is light-hearted and engaging.",
+                "A delightful escape into the world of historical romance."
+            ]
+        },
+        "title": {
+            "S": "The Duke and I"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000126"
+        },
+        "author": {
+            "S": "Taylor Jenkins Reid"
+        },
+        "description": {
+            "S": "An epic love story set in the world of rock 'n' roll."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Romance"
+        },
+        "price": {
+            "N": "14.99"
+        },
+        "quantity": {
+            "N": "21"
+        },
+        "rating": {
+            "N": "4.5"
+        },
+        "reviews": {
+            "SS": [
+                "A captivating and passionate journey through music and love.",
+                "Taylor Jenkins Reid's writing is evocative and unforgettable.",
+                "A tale of love, fame, and the price of success."
+            ]
+        },
+        "title": {
+            "S": "Daisy Jones & The Six"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000127"
+        },
+        "author": {
+            "S": "Nicholas Sparks"
+        },
+        "description": {
+            "S": "A bittersweet romance that transcends time and memory."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Romance"
+        },
+        "price": {
+            "N": "13.99"
+        },
+        "quantity": {
+            "N": "17"
+        },
+        "rating": {
+            "N": "4.4"
+        },
+        "reviews": {
+            "SS": [
+                "A heartrending and timeless love story.",
+                "Nicholas Sparks' writing is both nostalgic and heartwarming.",
+                "A romance that will stay with you long after the last page."
+            ]
+        },
+        "title": {
+            "S": "The Longest Ride"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000128"
+        },
+        "author": {
+            "S": "Helen Hoang"
+        },
+        "description": {
+            "S": "A unique and heartwarming romance between two individuals with their own challenges."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Romance"
+        },
+        "price": {
+            "N": "15.49"
+        },
+        "quantity": {
+            "N": "19"
+        },
+        "rating": {
+            "N": "4.6"
+        },
+        "reviews": {
+            "SS": [
+                "A touching and diverse love story.",
+                "Helen Hoang's writing is both tender and eye-opening.",
+                "A romance that celebrates the beauty of differences."
+            ]
+        },
+        "title": {
+            "S": "The Kiss Quotient"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000129"
+        },
+        "author": {
+            "S": "Jodi Picoult"
+        },
+        "description": {
+            "S": "A powerful and thought-provoking love story that explores life's difficult choices."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Romance"
+        },
+        "price": {
+            "N": "14.95"
+        },
+        "quantity": {
+            "N": "20"
+        },
+        "rating": {
+            "N": "4.3"
+        },
+        "reviews": {
+            "SS": [
+                "A heart-wrenching and morally complex romance.",
+                "Jodi Picoult's writing is both challenging and emotionally charged.",
+                "A love story that tests the limits of sacrifice and love."
+            ]
+        },
+        "title": {
+            "S": "The Storyteller"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000130"
+        },
+        "author": {
+            "S": "Marian Keyes"
+        },
+        "description": {
+            "S": "A funny and heartwarming tale of love and second chances."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Romance"
+        },
+        "price": {
+            "N": "12.95"
+        },
+        "quantity": {
+            "N": "18"
+        },
+        "rating": {
+            "N": "4.4"
+        },
+        "reviews": {
+            "SS": [
+                "A feel-good and hilarious love story.",
+                "Marian Keyes' writing is both witty and heartening.",
+                "A romance that proves it's never too late for love."
+            ]
+        },
+        "title": {
+            "S": "The Last Chance Saloon"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000131"
+        },
+        "author": {
+            "S": "Sylvain Reynard"
+        },
+        "description": {
+            "S": "A passionate and sensual love story set in the world of academia."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Romance"
+        },
+        "price": {
+            "N": "14.79"
+        },
+        "quantity": {
+            "N": "21"
+        },
+        "rating": {
+            "N": "4.5"
+        },
+        "reviews": {
+            "SS": [
+                "A steamy and intellectually stimulating romance.",
+                "Sylvain Reynard's writing is both seductive and captivating.",
+                "A love story that ignites both passion and intellect."
+            ]
+        },
+        "title": {
+            "S": "Gabriel's Inferno"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000132"
+        },
+        "author": {
+            "S": "Nora Roberts"
+        },
+        "description": {
+            "S": "A romantic suspense novel that keeps you on the edge of your seat."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Romance"
+        },
+        "price": {
+            "N": "14.99"
+        },
+        "quantity": {
+            "N": "17"
+        },
+        "rating": {
+            "N": "4.4"
+        },
+        "reviews": {
+            "SS": [
+                "An enthralling and passionate love story.",
+                "Nora Roberts' writing is both suspenseful and emotionally charged.",
+                "A romance that combines love and danger."
+            ]
+        },
+        "title": {
+            "S": "The Obsession"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000133"
+        },
+        "author": {
+            "S": "Lisa Kleypas"
+        },
+        "description": {
+            "S": "A historical romance filled with passion and intrigue."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Romance"
+        },
+        "price": {
+            "N": "13.99"
+        },
+        "quantity": {
+            "N": "19"
+        },
+        "rating": {
+            "N": "4.3"
+        },
+        "reviews": {
+            "SS": [
+                "A sweeping and passionate Regency romance.",
+                "Lisa Kleypas' writing is both enchanting and alluring.",
+                "A love story that transports you to another era."
+            ]
+        },
+        "title": {
+            "S": "Devil in Winter"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000134"
+        },
+        "author": {
+            "S": "Kristin Hannah"
+        },
+        "description": {
+            "S": "A moving and emotional love story set against the backdrop of World War II."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Romance"
+        },
+        "price": {
+            "N": "16.49"
+        },
+        "quantity": {
+            "N": "15"
+        },
+        "rating": {
+            "N": "4.5"
+        },
+        "reviews": {
+            "SS": [
+                "A touching and epic tale of love during wartime.",
+                "Kristin Hannah's writing is both heartwarming and unforgettable.",
+                "A romance that celebrates the resilience of the human spirit."
+            ]
+        },
+        "title": {
+            "S": "The Nightingale"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000135"
+        },
+        "author": {
+            "S": "Sarah Pekkanen"
+        },
+        "description": {
+            "S": "A heartwarming story of two people who discover love in unexpected places."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Romance"
+        },
+        "price": {
+            "N": "14.99"
+        },
+        "quantity": {
+            "N": "20"
+        },
+        "rating": {
+            "N": "4.4"
+        },
+        "reviews": {
+            "SS": [
+                "A beautifully written and uplifting romance.",
+                "Sarah Pekkanen's storytelling is both touching and relatable.",
+                "An exploration of the magic of love."
+            ]
+        },
+        "title": {
+            "S": "The Art of Falling in Love"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000136"
+        },
+        "author": {
+            "S": "Graeme Simsion"
+        },
+        "description": {
+            "S": "A delightful romantic comedy about a professor's quest to find the perfect life partner."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Romance"
+        },
+        "price": {
+            "N": "13.95"
+        },
+        "quantity": {
+            "N": "18"
+        },
+        "rating": {
+            "N": "4.3"
+        },
+        "reviews": {
+            "SS": [
+                "A charming and hilarious love story.",
+                "Graeme Simsion's writing is witty and endearing.",
+                "A romance that proves love can be found in the quirkiest of ways."
+            ]
+        },
+        "title": {
+            "S": "The Rosie Project"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000137"
+        },
+        "author": {
+            "S": "Sally Thorne"
+        },
+        "description": {
+            "S": "An enemies-to-lovers office romance that sizzles with chemistry and wit."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Romance"
+        },
+        "price": {
+            "N": "15.49"
+        },
+        "quantity": {
+            "N": "19"
+        },
+        "rating": {
+            "N": "4.5"
+        },
+        "reviews": {
+            "SS": [
+                "A witty and irresistibly charming love story.",
+                "Sally Thorne's writing is sharp and addictive.",
+                "A romance that explores the thin line between love and hate."
+            ]
+        },
+        "title": {
+            "S": "The Hating Game"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000138"
+        },
+        "author": {
+            "S": "Jill Santopolo"
+        },
+        "description": {
+            "S": "A powerful and emotional journey through the lives and loves of two individuals."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Romance"
+        },
+        "price": {
+            "N": "14.79"
+        },
+        "quantity": {
+            "N": "20"
+        },
+        "rating": {
+            "N": "4.4"
+        },
+        "reviews": {
+            "SS": [
+                "A heart-wrenching and unforgettable love story.",
+                "Jill Santopolo's writing is both poignant and thought-provoking.",
+                "A romance that lingers in your heart long after you've finished reading."
+            ]
+        },
+        "title": {
+            "S": "The Light We Lost"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000139"
+        },
+        "author": {
+            "S": "Gail Honeyman"
+        },
+        "description": {
+            "S": "A heartwarming and unconventional love story that celebrates the beauty of human connection."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Romance"
+        },
+        "price": {
+            "N": "12.95"
+        },
+        "quantity": {
+            "N": "22"
+        },
+        "rating": {
+            "N": "4.6"
+        },
+        "reviews": {
+            "SS": [
+                "A unique and touching exploration of love and friendship.",
+                "Gail Honeyman's writing is both witty and heartening.",
+                "A romance that reminds us of the healing power of love."
+            ]
+        },
+        "title": {
+            "S": "Eleanor Oliphant Is Completely Fine"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000140"
+        },
+        "author": {
+            "S": "David Nicholls"
+        },
+        "description": {
+            "S": "A moving and evocative tale of love, friendship, and the passage of time."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Romance"
+        },
+        "price": {
+            "N": "14.95"
+        },
+        "quantity": {
+            "N": "21"
+        },
+        "rating": {
+            "N": "4.4"
+        },
+        "reviews": {
+            "SS": [
+                "An emotionally charged and beautifully written love story.",
+                "David Nicholls' storytelling is both poignant and relatable.",
+                "A romance that celebrates the enduring power of connection."
+            ]
+        },
+        "title": {
+            "S": "One Day"
+        }
+    }
+]

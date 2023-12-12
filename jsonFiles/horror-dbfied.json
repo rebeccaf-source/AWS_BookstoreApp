@@ -1,0 +1,908 @@
+{
+    "books": [
+      {
+        "isbn": {
+          "S": "1234567890"
+        },
+        "title": {
+          "S": "The Haunting of Hill House"
+        },
+        "author": {
+          "S": "Shirley Jackson"
+        },
+        "price": {
+          "N": "12.99"
+        },
+        "description": {
+          "S": "A chilling tale of a haunted mansion that has stood for 80 years, featuring four people who come to stay there and experience its sinister power."
+        },
+        "reviews": {
+          "SS": [
+            "This is a classic in the horror genre. Shirley Jackson's writing is both eerie and captivating.",
+            "I couldn't put this book down! The atmosphere and tension were incredible.",
+            "If you want a spine-tingling, psychological horror, this is the one."
+          ]
+        },
+        "rating": {
+          "N": "4.5"
+        },
+        "quantity": {
+          "N": "23"
+        }
+      },
+      {
+        "isbn": {
+          "S": "2345678901"
+        },
+        "title": {
+          "S": "It"
+        },
+        "author": {
+          "S": "Stephen King"
+        },
+        "price": {
+          "N": "14.95"
+        },
+        "description": {
+          "S": "Pennywise the Dancing Clown terrorizes the small town of Derry, Maine, in this masterful horror novel by Stephen King."
+        },
+        "reviews": {
+          "SS": [
+            "A true masterpiece of horror. King's storytelling is unparalleled.",
+            "I had nightmares after reading this book. It's pure terror.",
+            "The characters are so well-developed; you feel like you're part of the Losers' Club."
+          ]
+        },
+        "rating": {
+          "N": "4.8"
+        },
+        "quantity": {
+          "N": "17"
+        }
+      },
+      {
+        "isbn": {
+          "S": "3456789012"
+        },
+        "title": {
+          "S": "Dracula"
+        },
+        "author": {
+          "S": "Bram Stoker"
+        },
+        "price": {
+          "N": "9.99"
+        },
+        "description": {
+          "S": "Bram Stoker's iconic novel about Count Dracula, a vampire who threatens the safety of London, is a classic horror story that has stood the test of time."
+        },
+        "reviews": {
+          "SS": [
+            "The original vampire tale. It's both scary and beautifully written.",
+            "This book is a must-read for any horror fan. It's a timeless classic.",
+            "Stoker's descriptions of Dracula are incredibly vivid and frightening."
+          ]
+        },
+        "rating": {
+          "N": "4.7"
+        },
+        "quantity": {
+          "N": "11"
+        }
+      },
+      {
+        "isbn": {
+          "S": "4567890123"
+        },
+        "title": {
+          "S": "Psycho"
+        },
+        "author": {
+          "S": "Robert Bloch"
+        },
+        "price": {
+          "N": "11.99"
+        },
+        "description": {
+          "S": "Robert Bloch's psychological thriller about the unsettling events at the Bates Motel and the mysterious Norman Bates is a true horror classic."
+        },
+        "reviews": {
+          "SS": [
+            "A thrilling and suspenseful read. Norman Bates is a character you won't forget.",
+            "The tension and suspense are perfectly executed. A real page-turner.",
+            "I've never been so creeped out by a motel. A classic in the horror genre."
+          ]
+        },
+        "rating": {
+          "N": "4.4"
+        },
+        "quantity": {
+          "N": "9"
+        }
+      },
+      {
+        "isbn": {
+          "S": "5678901234"
+        },
+        "title": {
+          "S": "Bird Box"
+        },
+        "author": {
+          "S": "Josh Malerman"
+        },
+        "price": {
+          "N": "10.50"
+        },
+        "description": {
+          "S": "Josh Malerman's post-apocalyptic horror novel tells the story of a mother and her two children, blindfolded and trying to survive in a world filled with supernatural creatures that drive people to madness."
+        },
+        "reviews": {
+          "SS": [
+            "A gripping and unique horror novel. The concept is terrifying.",
+            "I couldn't stop reading, even with my heart racing. A modern horror gem.",
+            "The fear of the unknown is the scariest part of this book."
+          ]
+        },
+        "rating": {
+          "N": "4.6"
+        },
+        "quantity": {
+          "N": "14"
+        }
+      },
+      {
+        "isbn": {
+          "S": "6789012345"
+        },
+        "title": {
+          "S": "The Shining"
+        },
+        "author": {
+          "S": "Stephen King"
+        },
+        "price": {
+          "N": "13.75"
+        },
+        "description": {
+          "S": "Stephen King's classic story of the Torrance family's descent into madness while serving as caretakers for the haunted Overlook Hotel is a must-read for horror enthusiasts."
+        },
+        "reviews": {
+          "SS": [
+            "King's writing is so immersive; you'll feel the isolation and terror of the hotel.",
+            "The psychological horror is brilliantly executed. A masterpiece of the genre.",
+            "The Overlook Hotel is a character in itself, and it's terrifying."
+          ]
+        },
+        "rating": {
+          "N": "4.7"
+        },
+        "quantity": {
+          "N": "19"
+        }
+      },
+      {
+        "isbn": {
+          "S": "7890123456"
+        },
+        "title": {
+          "S": "Hell House"
+        },
+        "author": {
+          "S": "Richard Matheson"
+        },
+        "price": {
+          "N": "12.25"
+        },
+        "description": {
+          "S": "Richard Matheson's horror novel follows a team of investigators who spend a week in the Belasco House, the Mount Everest of haunted houses, to uncover its dark secrets."
+        },
+        "reviews": {
+          "SS": [
+            "A masterpiece of haunted house horror. Matheson's storytelling is gripping.",
+            "This book will make you afraid of the dark. The malevolence of Hell House is palpable.",
+            "A haunting exploration of the supernatural and the human spirit."
+          ]
+        },
+        "rating": {
+          "N": "4.4"
+        },
+        "quantity": {
+          "N": "22"
+        }
+      },
+      {
+        "isbn": {
+          "S": "9012345678"
+        },
+        "title": {
+          "S": "The Silence of the Lambs"
+        },
+        "author": {
+          "S": "Thomas Harris"
+        },
+        "price": {
+          "N": "14.50"
+        },
+        "description": {
+          "S": "Thomas Harris's thriller introduces the brilliant but insane Dr. Hannibal Lecter and FBI trainee Clarice Starling, who must consult him to catch a serial killer known as Buffalo Bill."
+        },
+        "reviews": {
+          "SS": [
+            "A psychological thriller at its best. Hannibal Lecter is a character you won't forget.",
+            "The suspense and cat-and-mouse game between Clarice and Lecter are riveting.",
+            "A chilling exploration of the human psyche and the darkest corners of the criminal mind."
+          ]
+        },
+        "rating": {
+          "N": "4.7"
+        },
+        "quantity": {
+          "N": "10"
+        }
+      },
+      {
+        "isbn": {
+          "S": "0123456789"
+        },
+        "title": {
+          "S": "The Girl with All the Gifts"
+        },
+        "author": {
+          "S": "M.R. Carey"
+        },
+        "price": {
+          "N": "11.75"
+        },
+        "description": {
+          "S": "M.R. Carey's post-apocalyptic thriller follows a group of survivors, including a young girl with a mysterious gift, as they navigate a world overrun by fungal zombies."
+        },
+        "reviews": {
+          "SS": [
+            "A unique and compelling take on the zombie genre. Carey's storytelling is masterful.",
+            "This book is as much about the human condition as it is about survival. A must-read for zombie enthusiasts.",
+            "The character of Melanie is both endearing and chilling."
+          ]
+        },
+        "rating": {
+          "N": "4.6"
+        },
+        "quantity": {
+          "N": "28"
+        }
+      },
+      {
+        "isbn": {
+          "S": "1234567890"
+        },
+        "title": {
+          "S": "American Psycho"
+        },
+        "author": {
+          "S": "Bret Easton Ellis"
+        },
+        "price": {
+          "N": "12.99"
+        },
+        "description": {
+          "S": "Bret Easton Ellis's novel follows the life of Patrick Bateman, a wealthy investment banker who also happens to be a psychopathic serial killer."
+        },
+        "reviews": {
+          "SS": [
+            "A disturbing and satirical look at the excesses of the 1980s. Ellis's writing is both shocking and darkly humorous.",
+            "This book is not for the faint of heart. It's a chilling exploration of the dark side of humanity.",
+            "A dark and twisted masterpiece that will leave you with chills."
+          ]
+        },
+        "rating": {
+          "N": "4.5"
+        },
+        "quantity": {
+          "N": "7"
+        }
+      },
+      {
+        "isbn": {
+          "S": "2345678901"
+        },
+        "title": {
+          "S": "The Ruins"
+        },
+        "author": {
+          "S": "Scott Smith"
+        },
+        "price": {
+          "N": "10.99"
+        },
+        "description": {
+          "S": "Scott Smith's horror novel tells the story of a group of American tourists who venture into the Mexican jungle and discover an ancient, malevolent force that lurks within the ruins."
+        },
+        "reviews": {
+          "SS": [
+            "A tense and gripping story that will make you think twice about exploring ancient ruins.",
+            "The sense of dread and isolation in this book is palpable. Smith's storytelling is top-notch.",
+            "The Ruins is a chilling exploration of how nature and the supernatural can conspire against you."
+          ]
+        },
+        "rating": {
+          "N": "4.6"
+        },
+        "quantity": {
+          "N": "5"
+        }
+      },
+      {
+        "isbn": {
+          "S": "3456789012"
+        },
+        "title": {
+          "S": "Annihilation"
+        },
+        "author": {
+          "S": "Jeff VanderMeer"
+        },
+        "price": {
+          "N": "11.75"
+        },
+        "description": {
+          "S": "Jeff VanderMeer's novel is the first in the Southern Reach Trilogy, where a team of female scientists ventures into a mysterious and deadly environmental zone known as Area X."
+        },
+        "reviews": {
+          "SS": [
+            "A mind-bending and surreal experience. VanderMeer's writing is both poetic and chilling.",
+            "This book will leave you with more questions than answers. It's a journey into the unknown.",
+            "Annihilation is a haunting exploration of the uncanny and the unknowable."
+          ]
+        },
+        "rating": {
+          "N": "4.7"
+        },
+        "quantity": {
+          "N": "20"
+        }
+      },
+      {
+        "isbn": {
+          "S": "0123456789"
+        },
+        "title": {
+          "S": "The Witching Hour"
+        },
+        "author": {
+          "S": "Anne Rice"
+        },
+        "price": {
+          "N": "13.99"
+        },
+        "description": {
+          "S": "Anne Rice's novel delves into the Mayfair Witches, a powerful and haunted family, and their connection to the supernatural, weaving a tale of dark secrets and ancient magic."
+        },
+        "reviews": {
+          "SS": [
+            "A mesmerizing and epic tale of witches. Anne Rice's writing is spellbinding.",
+            "The Mayfair family is one you'll want to follow into the darkest corners of the supernatural world.",
+            "This book immerses you in a world of magic and malevolence."
+          ]
+        },
+        "rating": {
+          "N": "4.6"
+        },
+        "quantity": {
+          "N": "10"
+        }
+      },
+      {
+        "isbn": {
+          "S": "1234567890"
+        },
+        "title": {
+          "S": "Heart-Shaped Box"
+        },
+        "author": {
+          "S": "Joe Hill"
+        },
+        "price": {
+          "N": "11.95"
+        },
+        "description": {
+          "S": "Joe Hill's chilling novel follows a retired rock star who purchases a haunted suit online, setting off a terrifying chain of supernatural events that threaten his life and sanity."
+        },
+        "reviews": {
+          "SS": [
+            "Joe Hill delivers horror that's as good as, if not better than, his father's. This book is a masterpiece.",
+            "The ghostly terror in this book is relentless. I couldn't put it down.",
+            "A haunting and suspenseful journey that will keep you up at night."
+          ]
+        },
+        "rating": {
+          "N": "4.7"
+        },
+        "quantity": {
+          "N": "15"
+        }
+      },
+      {
+        "isbn": {
+          "S": "2345678901"
+        },
+        "title": {
+          "S": "Pet Sematary"
+        },
+        "author": {
+          "S": "Stephen King"
+        },
+        "price": {
+          "N": "12.99"
+        },
+        "description": {
+          "S": "Stephen King's novel explores the darkness of grief and the horrifying consequences of bringing the dead back to life in a cursed burial ground."
+        },
+        "reviews": {
+          "SS": [
+            "A chilling masterpiece from the King of Horror. It's a journey into the darkest corners of the human soul.",
+            "This book will make you question the lengths you'd go to for a loved one. A must-read for King fans.",
+            "The horror of loss and resurrection is expertly portrayed."
+          ]
+        },
+        "rating": {
+          "N": "4.8"
+        },
+        "quantity": {
+          "N": "13"
+        }
+      },
+      {
+        "isbn": {
+          "S": "3456789012"
+        },
+        "title": {
+          "S": "The Woman in Black"
+        },
+        "author": {
+          "S": "Susan Hill"
+        },
+        "price": {
+          "N": "10.50"
+        },
+        "description": {
+          "S": "Susan Hill's ghost story takes place in a remote English village, where a malevolent spirit haunts Eel Marsh House, terrorizing the locals and a young lawyer sent to settle the estate."
+        },
+        "reviews": {
+          "SS": [
+            "A classic ghost story that will send shivers down your spine. Susan Hill's storytelling is exceptional.",
+            "The atmosphere and tension in this book are perfectly crafted. It's a masterclass in suspense.",
+            "The Woman in Black is a spectral character you won't forget."
+          ]
+        },
+        "rating": {
+          "N": "4.5"
+        },
+        "quantity": {
+          "N": "8"
+        }
+      },
+      {
+        "isbn": {
+          "S": "4567890123"
+        },
+        "title": {
+          "S": "The Hellbound Heart"
+        },
+        "author": {
+          "S": "Clive Barker"
+        },
+        "price": {
+          "N": "11.99"
+        },
+        "description": {
+          "S": "Clive Barker's novella introduces readers to the sadomasochistic Cenobites, led by the iconic Pinhead, who are summoned by a mysterious puzzle box, bringing pain and pleasure to those who open it."
+        },
+        "reviews": {
+          "SS": [
+            "A dark and perverse journey into the world of pain and pleasure. Barker's imagination knows no bounds.",
+            "This is horror that pushes boundaries and challenges your perception of reality. An unforgettable experience.",
+            "The Cenobites are some of the most original and terrifying creations in the genre."
+          ]
+        },
+        "rating": {
+          "N": "4.6"
+        },
+        "quantity": {
+          "N": "4"
+        }
+      },
+      {
+        "isbn": {
+          "S": "5678901234"
+        },
+        "title": {
+          "S": "The Passage"
+        },
+        "author": {
+          "S": "Justin Cronin"
+        },
+        "price": {
+          "N": "14.75"
+        },
+        "description": {
+          "S": "Justin Cronin's post-apocalyptic novel explores a world overrun by vampiric creatures created by a government experiment gone awry, and the survivors who must navigate this new and deadly landscape."
+        },
+        "reviews": {
+          "SS": [
+            "A sprawling and epic tale of survival and horror. Cronin's storytelling is both heart-wrenching and terrifying.",
+            "The post-apocalyptic world in this book is vivid and haunting. It's a genre-defining work.",
+            "The Passage is a haunting exploration of the fight for humanity's future."
+          ]
+        },
+        "rating": {
+          "N": "4.5"
+        },
+        "quantity": {
+          "N": "6"
+        }
+      },
+      {
+        "isbn": {
+          "S": "6789012345"
+        },
+        "title": {
+          "S": "The Elementals"
+        },
+        "author": {
+          "S": "Michael McDowell"
+        },
+        "price": {
+          "N": "12.50"
+        },
+        "description": {
+          "S": "Michael McDowell's novel follows a Southern family with a dark and haunted history as they confront supernatural forces on a remote Alabama beach."
+        },
+        "reviews": {
+          "SS": [
+            "A Southern gothic gem with a touch of the supernatural. McDowell's storytelling is rich and atmospheric.",
+            "This book will immerse you in the deep South and its haunted past. The horror is as much psychological as it is supernatural.",
+            "The Elementals is a haunting exploration of family secrets and ancestral curses."
+          ]
+        },
+        "rating": {
+          "N": "4.5"
+        },
+        "quantity": {
+          "N": "16"
+        }
+      },
+      {
+        "isbn": {
+          "S": "7890123456"
+        },
+        "title": {
+          "S": "Annabelle"
+        },
+        "author": {
+          "S": "Ruby Jean Jensen"
+        },
+        "price": {
+          "N": "9.99"
+        },
+        "description": {
+          "S": "Ruby Jean Jensen's horror novel revolves around a cursed doll named Annabelle and the terror it brings to a family when it is discovered in an old house."
+        },
+        "reviews": {
+          "SS": [
+            "A classic tale of cursed dolls and supernatural horror. Jensen's writing is spine-tingling.",
+            "Annabelle is a character that will give you nightmares. A great addition to the haunted doll subgenre.",
+            "This book is a creepy and suspenseful read that will make you wary of old toys."
+          ]
+        },
+        "rating": {
+          "N": "4.3"
+        },
+        "quantity": {
+          "N": "2"
+        }
+      },
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+      {
+        "isbn": {
+          "S": "9012345678"
+        },
+        "title": {
+          "S": "The Haunting of Ashburn House"
+        },
+        "author": {
+          "S": "Darcy Coates"
+        },
+        "price": {
+          "N": "11.75"
+        },
+        "description": {
+          "S": "Darcy Coates's novel follows a woman who inherits a mysterious old mansion, only to discover that it holds dark secrets and supernatural entities that threaten her sanity."
+        },
+        "reviews": {
+          "SS": [
+            "A chilling and atmospheric haunted house story. Coates's writing is immersive and spooky.",
+            "The secrets of Ashburn House are revealed slowly, keeping you on the edge of your seat. A great haunted house tale.",
+            "This book is a page-turner that will make you question the history of old estates."
+          ]
+        },
+        "rating": {
+          "N": "4.4"
+        },
+        "quantity": {
+          "N": "18"
+        }
+      },
+      {
+        "isbn": {
+          "S": "0123456789"
+        },
+        "title": {
+          "S": "The Girl Next Door"
+        },
+        "author": {
+          "S": "Jack Ketchum"
+        },
+        "price": {
+          "N": "10.99"
+        },
+        "description": {
+          "S": "Jack Ketchum's novel is based on a true story and delves into the horrifying abuse and torment inflicted upon a young girl by her caretakers and the neighbors who turn a blind eye."
+        },
+        "reviews": {
+          "SS": [
+            "A disturbing and unflinching exploration of human cruelty. Ketchum's storytelling is both harrowing and important.",
+            "This book is not for the faint of heart. It's a horrifying and tragic tale of abuse and complicity.",
+            "The Girl Next Door is a haunting and unforgettable work that will leave you deeply disturbed."
+          ]
+        },
+        "rating": {
+          "N": "4.6"
+        },
+        "quantity": {
+          "N": "12"
+        }
+      },
+      {
+        "isbn": {
+          "S": "1234567890"
+        },
+        "title": {
+          "S": "The Fisherman"
+        },
+        "author": {
+          "S": "John Langan"
+        },
+        "price": {
+          "N": "13.50"
+        },
+        "description": {
+          "S": "John Langan's horror novel follows two grieving widowers who take a fishing trip to a haunted and cursed river, where they encounter unspeakable horrors and the cosmic malevolence of an ancient deity."
+        },
+        "reviews": {
+          "SS": [
+            "A masterfully crafted tale of cosmic horror. Langan's writing is both thought-provoking and terrifying.",
+            "The horrors in this book are beyond description. It's a chilling and existential journey.",
+            "The Fisherman is a haunting exploration of grief, friendship, and the incomprehensible."
+          ]
+        },
+        "rating": {
+          "N": "4.4"
+        },
+        "quantity": {
+          "N": "29"
+        }
+      },
+      {
+        "isbn": {
+          "S": "2345678901"
+        },
+        "title": {
+          "S": "The Troop"
+        },
+        "author": {
+          "S": "Nick Cutter"
+        },
+        "price": {
+          "N": "12.25"
+        },
+        "description": {
+          "S": "Nick Cutter's horror novel tells the story of a scout troop on a remote island who encounter a deadly and insatiable parasite that turns the boys' wilderness adventure into a fight for survival."
+        },
+        "reviews": {
+          "SS": [
+            "A relentless and gruesome horror story. Cutter's writing is visceral and terrifying.",
+            "The descent into madness and body horror in this book is unparalleled. It's a horrifying and intense read.",
+            "The Troop is a chilling exploration of the limits of human endurance and the horrors of nature."
+          ]
+        },
+        "rating": {
+          "N": "4.5"
+        },
+        "quantity": {
+          "N": "27"
+        }
+      },
+      {
+        "isbn": {
+          "S": "3456789012"
+        },
+        "title": {
+          "S": "The Haunting of Sunshine Girl"
+        },
+        "author": {
+          "S": "Paige McKenzie"
+        },
+        "price": {
+          "N": "11.75"
+        },
+        "description": {
+          "S": "Paige McKenzie's novel follows a teenage girl, Sunshine, who moves to a new home and discovers that it's haunted by malevolent spirits. She must uncover the house's dark secrets to save her family."
+        },
+        "reviews": {
+          "SS": [
+            "A spooky and suspenseful young adult horror novel. McKenzie's storytelling is engaging and eerie.",
+            "The paranormal elements in this book are well-crafted. It's a great read for young horror enthusiasts.",
+            "The Haunting of Sunshine Girl is a chilling exploration of the supernatural and the courage of a young girl."
+          ]
+        },
+        "rating": {
+          "N": "4.3"
+        },
+        "quantity": {
+          "N": "3"
+        }
+      },
+      {
+        "isbn": {
+          "S": "4567890123"
+        },
+        "title": {
+          "S": "The Dark Half"
+        },
+        "author": {
+          "S": "Stephen King"
+        },
+        "price": {
+          "N": "10.99"
+        },
+        "description": {
+          "S": "Stephen King's novel follows a writer, Thad Beaumont, who, under a pseudonym, has written a series of bestsellers. When his pseudonym is revealed, the dark half of his identity comes to life and seeks revenge."
+        },
+        "reviews": {
+          "SS": [
+            "A psychological horror story that blurs the line between reality and fiction. King's writing is gripping and thought-provoking.",
+            "The duality of Thad and his dark half is brilliantly portrayed. It's a haunting exploration of the creative process and the darkness within.",
+            "The Dark Half is a chilling examination of the consequences of artistic identity."
+          ]
+        },
+        "rating": {
+          "N": "4.4"
+        },
+        "quantity": {
+          "N": "21"
+        }
+      },
+      {
+        "isbn": {
+          "S": "5678901234"
+        },
+        "title": {
+          "S": "The Silent Patient"
+        },
+        "author": {
+          "S": "Alex Michaelides"
+        },
+        "price": {
+          "N": "12.50"
+        },
+        "description": {
+          "S": "Alex Michaelides's psychological thriller follows a woman who shoots her husband and then becomes mute, leading to her commitment to a secure psychiatric facility. A psychotherapist becomes obsessed with uncovering the truth behind her silence."
+        },
+        "reviews": {
+          "SS": [
+            "A mind-bending and thought-provoking psychological thriller. Michaelides keeps you guessing until the last page.",
+            "The character of Alicia Berenson is both enigmatic and captivating. A gripping exploration of the human psyche.",
+            "The Silent Patient is a chilling journey into the complexities of the mind and the secrets we keep."
+          ]
+        },
+        "rating": {
+          "N": "4.8"
+        },
+        "quantity": {
+          "N": "25"
+        }
+      },
+      {
+        "isbn": {
+          "S": "7890123456"
+        },
+        "title": {
+          "S": "The Deep"
+        },
+        "author": {
+          "S": "Nick Cutter"
+        },
+        "price": {
+          "N": "11.25"
+        },
+        "description": {
+          "S": "Nick Cutter's horror novel follows a veterinarian who is sent to a research station at the bottom of the ocean to investigate a mysterious and deadly disease that affects the crew, leading to a descent into madness and terror."
+        },
+        "reviews": {
+          "SS": [
+            "A claustrophobic and nightmarish descent into the depths of the ocean. Cutter's writing is visceral and terrifying.",
+            "The horror in this book is relentless and unrelenting. It's a deep-sea nightmare that will give you chills.",
+            "The Deep is a haunting exploration of isolation, fear, and the unknown."
+          ]
+        },
+        "rating": {
+          "N": "4.6"
+        },
+        "quantity": {
+          "N": "19"
+        }
+      },
+      {
+        "isbn": {
+          "S": "9012345678"
+        },
+        "title": {
+          "S": "The Secret of Crickley Hall"
+        },
+        "author": {
+          "S": "James Herbert"
+        },
+        "price": {
+          "N": "10.99"
+        },
+        "description": {
+          "S": "James Herbert's novel follows a grieving family who moves to Crickley Hall, a haunted and ancient mansion, where they begin to experience supernatural phenomena and uncover the dark secrets of the house."
+        },
+        "reviews": {
+          "SS": [
+            "A classic haunted house tale that will make you jump at every creak and whisper. Herbert's storytelling is gripping.",
+            "The atmosphere and the sense of dread in this book are palpable. It's a terrifying experience.",
+            "The Secret of Crickley Hall is a chilling exploration of grief, loss, and the haunting past."
+          ]
+        },
+        "rating": {
+          "N": "4.4"
+        },
+        "quantity": {
+          "N": "16"
+        }
+      }
+    ]
+  }
+  

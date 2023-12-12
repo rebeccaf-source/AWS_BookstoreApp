@@ -1,0 +1,722 @@
+[
+    {
+      "isbn": {
+        "S": "1000000081"
+      },
+      "author": {
+        "S": "Clive Cussler"
+      },
+      "description": {
+        "S": "Follow Dirk Pitt as he explores the depths of the ocean and uncovers lost shipwrecks and mysteries."
+      },
+      "genre": {
+        "S": "Action/Adventure"
+      },
+      "price": {
+        "N": "13.99"
+      },
+      "quantity": {
+        "N": "16"
+      },
+      "title": {
+        "S": "Sahara"
+      },
+      "fiction?": {
+        "BOOL": true
+      },
+      "rating": {
+        "N": "4.5"
+      },
+      "reviews": {
+        "SS": [
+          "A thrilling adventure on the high seas!",
+          "Dirk Pitt is a fantastic hero. Loved every page.",
+          "Cussler's storytelling keeps you hooked from start to finish."
+        ]
+      }
+    },
+    {
+      "isbn": {
+        "S": "1000000082"
+      },
+      "author": {
+        "S": "Ernest Hemingway"
+      },
+      "description": {
+        "S": "Join Santiago in his epic battle against a giant marlin in the Gulf Stream in this classic novel."
+      },
+      "genre": {
+        "S": "Action/Adventure"
+      },
+      "price": {
+        "N": "10.99"
+      },
+      "quantity": {
+        "N": "18"
+      },
+      "title": {
+        "S": "The Old Man and the Sea"
+      },
+      "fiction?": {
+        "BOOL": true
+      },
+      "rating": {
+        "N": "4.8"
+      },
+      "reviews": {
+        "SS": [
+          "A true masterpiece of courage and determination.",
+          "Hemingway's prose is as captivating as the sea itself.",
+          "This book is a timeless testament to human spirit."
+        ]
+      }
+    },
+    {
+      "isbn": {
+        "S": "1000000083"
+      },
+      "author": {
+        "S": "Jack London"
+      },
+      "description": {
+        "S": "Experience the harsh Alaskan wilderness and the struggle for survival in this adventure classic."
+      },
+      "genre": {
+        "S": "Action/Adventure"
+      },
+      "price": {
+        "N": "9.99"
+      },
+      "quantity": {
+        "N": "25"
+      },
+      "title": {
+        "S": "The Call of the Wild"
+      },
+      "fiction?": {
+        "BOOL": true
+      },
+      "rating": {
+        "N": "4.7"
+      },
+      "reviews": {
+        "SS": [
+          "A gripping tale of nature's challenges and triumph.",
+          "London's descriptions of the Yukon are vivid and breathtaking.",
+          "Buck's journey is a heartwarming adventure for all ages."
+        ]
+      }
+    },
+    {
+      "isbn": {
+        "S": "1000000084"
+      },
+      "author": {
+        "S": "Stephen King"
+      },
+      "description": {
+        "S": "Embark on a perilous journey through a post-apocalyptic world in this gripping adventure novel."
+      },
+      "genre": {
+        "S": "Action/Adventure"
+      },
+      "price": {
+        "N": "12.99"
+      },
+      "quantity": {
+        "N": "15"
+      },
+      "title": {
+        "S": "The Stand"
+      },
+      "fiction?": {
+        "BOOL": true
+      },
+      "rating": {
+        "N": "4.5"
+      },
+      "reviews": {
+        "SS": [
+          "King's storytelling is both terrifying and thought-provoking.",
+          "An epic journey through a world that's both familiar and alien.",
+          "A post-apocalyptic masterpiece that lingers in your thoughts."
+        ]
+      }
+    },
+    {
+      "isbn": {
+        "S": "1000000085"
+      },
+      "author": {
+        "S": "Jack Kerouac"
+      },
+      "description": {
+        "S": "Join Sal Paradise and Dean Moriarty on their cross-country road trip in this iconic Beat Generation novel."
+      },
+      "genre": {
+        "S": "Action/Adventure"
+      },
+      "price": {
+        "N": "14.99"
+      },
+      "quantity": {
+        "N": "22"
+      },
+      "title": {
+        "S": "On the Road"
+      },
+      "fiction?": {
+        "BOOL": true
+      },
+      "rating": {
+        "N": "4.6"
+      },
+      "reviews": {
+        "SS": [
+          "A journey of self-discovery and freedom.",
+          "Kerouac's prose captures the essence of a generation.",
+          "An iconic road trip adventure that never gets old."
+        ]
+      }
+    },
+    {
+      "isbn": {
+        "S": "1000000086"
+      },
+      "author": {
+        "S": "Tom Clancy"
+      },
+      "description": {
+        "S": "Follow Jack Ryan as he deals with international espionage and threats to national security."
+      },
+      "genre": {
+        "S": "Action/Adventure"
+      },
+      "price": {
+        "N": "11.99"
+      },
+      "quantity": {
+        "N": "20"
+      },
+      "title": {
+        "S": "The Hunt for Red October"
+      },
+      "fiction?": {
+        "BOOL": true
+      },
+      "rating": {
+        "N": "4.4"
+      },
+      "reviews": {
+        "SS": [
+          "A thrilling game of cat and mouse on the high seas.",
+          "Clancy's intricate plots and detailed realism are unparalleled.",
+          "Ryan's intelligence and bravery make this a must-read."
+        ]
+      }
+    },
+    {
+      "isbn": {
+        "S": "1000000087"
+      },
+      "author": {
+        "S": "Wilbur Smith"
+      },
+      "description": {
+        "S": "Set out on African adventures and exploration with the Courtney family in this thrilling saga."
+      },
+      "genre": {
+        "S": "Action/Adventure"
+      },
+      "price": {
+        "N": "15.99"
+      },
+      "quantity": {
+        "N": "19"
+      },
+      "title": {
+        "S": "When the Lion Feeds"
+      },
+      "fiction?": {
+        "BOOL": true
+      },
+      "rating": {
+        "N": "4.6"
+      },
+      "reviews": {
+        "SS": [
+          "An epic family saga set against the backdrop of Africa.",
+          "Smith's vivid descriptions of the continent are breathtaking.",
+          "A captivating tale of love, betrayal, and adventure."
+        ]
+      }
+    },
+    {
+      "isbn": {
+        "S": "1000000088"
+      },
+      "author": {
+        "S": "John Grisham"
+      },
+      "description": {
+        "S": "Experience legal thrills and suspense as a young lawyer takes on a powerful law firm in Memphis."
+      },
+      "genre": {
+        "S": "Action/Adventure"
+      },
+      "price": {
+        "N": "12.99"
+      },
+      "quantity": {
+        "N": "17"
+      },
+      "title": {
+        "S": "The Firm"
+      },
+      "fiction?": {
+        "BOOL": true
+      },
+      "rating": {
+        "N": "4.5"
+      },
+      "reviews": {
+        "SS": [
+          "A legal thriller that keeps you guessing until the end.",
+          "Grisham's characters are well-developed and intriguing.",
+          "This book is a rollercoaster of suspense and drama."
+        ]
+      }
+    },
+    {
+      "isbn": {
+        "S": "1000000089"
+      },
+      "author": {
+        "S": "Michael Crichton"
+      },
+      "description": {
+        "S": "Delve into the world of genetic engineering and corporate intrigue on a remote island."
+      },
+      "genre": {
+        "S": "Action/Adventure"
+      },
+      "price": {
+        "N": "14.99"
+      },
+      "quantity": {
+        "N": "14"
+      },
+      "title": {
+        "S": "Jurassic Park"
+      },
+      "fiction?": {
+        "BOOL": true
+      },
+      "rating": {
+        "N": "4.7"
+      },
+      "reviews": {
+        "SS": [
+          "A thrilling and cautionary tale of science gone wrong.",
+          "Crichton's attention to detail makes it all the more terrifying.",
+          "A timeless classic in the world of techno-thrillers."
+        ]
+      }
+    },
+    {
+      "isbn": {
+        "S": "1000000090"
+      },
+      "author": {
+        "S": "Patrick O'Brian"
+      },
+      "description": {
+        "S": "Join Captain Jack Aubrey and Stephen Maturin on their seafaring adventures during the Napoleonic Wars."
+      },
+      "genre": {
+        "S": "Action/Adventure"
+      },
+      "price": {
+        "N": "16.99"
+      },
+      "quantity": {
+        "N": "13"
+      },
+      "title": {
+        "S": "Master and Commander"
+      },
+      "fiction?": {
+        "BOOL": true
+      },
+      "rating": {
+        "N": "4.8"
+      },
+      "reviews": {
+        "SS": [
+          "A meticulously researched and captivating series.",
+          "O'Brian's characters are richly drawn and engaging.",
+          "An enthralling journey through the Age of Sail."
+        ]
+      }
+    },
+    {
+      "isbn": {
+        "S": "1000000091"
+      },
+      "author": {
+        "S": "David Baldacci"
+      },
+      "description": {
+        "S": "Join the enigmatic assassin Will Robie as he carries out dangerous missions for the U.S. government."
+      },
+      "genre": {
+        "S": "Action/Adventure"
+      },
+      "price": {
+        "N": "12.99"
+      },
+      "quantity": {
+        "N": "18"
+      },
+      "title": {
+        "S": "The Hit"
+      },
+      "fiction?": {
+        "BOOL": true
+      },
+      "rating": {
+        "N": "4.6"
+      },
+      "reviews": {
+        "SS": [
+          "A high-stakes thriller that keeps you on the edge of your seat.",
+          "Baldacci's Will Robie is a complex and intriguing character.",
+          "The Hit is a hit! Gripping from start to finish."
+        ]
+      }
+    },
+    {
+      "isbn": {
+        "S": "1000000092"
+      },
+      "author": {
+        "S": "Andy Weir"
+      },
+      "description": {
+        "S": "Experience the gripping story of an astronaut stranded on Mars and his fight for survival."
+      },
+      "genre": {
+        "S": "Action/Adventure"
+      },
+      "price": {
+        "N": "10.99"
+      },
+      "quantity": {
+        "N": "16"
+      },
+      "title": {
+        "S": "The Martian"
+      },
+      "fiction?": {
+        "BOOL": true
+      },
+      "rating": {
+        "N": "4.7"
+      },
+      "reviews": {
+        "SS": [
+          "Weir's attention to scientific detail is incredible.",
+          "An astronaut's tale of survival that's both thrilling and funny.",
+          "The Martian is out of this world!"
+        ]
+      }
+    },
+    {
+      "isbn": {
+        "S": "1000000093"
+      },
+      "author": {
+        "S": "Michael Crichton"
+      },
+      "description": {
+        "S": "Explore the world of dinosaur cloning and its consequences in this thrilling adventure novel."
+      },
+      "genre": {
+        "S": "Action/Adventure"
+      },
+      "price": {
+        "N": "14.99"
+      },
+      "quantity": {
+        "N": "20"
+      },
+      "title": {
+        "S": "Jurassic Park"
+      },
+      "fiction?": {
+        "BOOL": true
+      },
+      "rating": {
+        "N": "4.6"
+      },
+      "reviews": {
+        "SS": [
+          "A thrilling adventure where science meets prehistory.",
+          "Crichton's world-building is masterful and immersive.",
+          "Jurassic Park is a timeless classic that still roars."
+        ]
+      }
+    },
+    {
+      "isbn": {
+        "S": "1000000094"
+      },
+      "author": {
+        "S": "Daniel Defoe"
+      },
+      "description": {
+        "S": "Join Robinson Crusoe as he survives shipwreck and isolation on a deserted island in this classic adventure."
+      },
+      "genre": {
+        "S": "Action/Adventure"
+      },
+      "price": {
+        "N": "11.99"
+      },
+      "quantity": {
+        "N": "19"
+      },
+      "title": {
+        "S": "Robinson Crusoe"
+      },
+      "fiction?": {
+        "BOOL": true
+      },
+      "rating": {
+        "N": "4.5"
+      },
+      "reviews": {
+        "SS": [
+          "A timeless story of survival and self-reliance.",
+          "Defoe's prose is captivating, and Crusoe's journey is inspiring.",
+          "Robinson Crusoe is a must-read for adventure lovers."
+        ]
+      }
+    },
+    {
+      "isbn": {
+        "S": "1000000095"
+      },
+      "author": {
+        "S": "Michael Ende"
+      },
+      "description": {
+        "S": "Join Bastian Balthazar Bux on a magical adventure through the world of Fantasia in this beloved novel."
+      },
+      "genre": {
+        "S": "Action/Adventure"
+      },
+      "price": {
+        "N": "12.99"
+      },
+      "quantity": {
+        "N": "17"
+      },
+      "title": {
+        "S": "The NeverEnding Story"
+      },
+      "fiction?": {
+        "BOOL": true
+      },
+      "rating": {
+        "N": "4.7"
+      },
+      "reviews": {
+        "SS": [
+          "A magical journey into a world of imagination.",
+          "Ende's storytelling is enchanting and filled with wonder.",
+          "The NeverEnding Story is a timeless classic for all ages."
+        ]
+      }
+    },
+    {
+      "isbn": {
+        "S": "1000000096"
+      },
+      "author": {
+        "S": "Richard Adams"
+      },
+      "description": {
+        "S": "Join a group of rabbits as they escape from danger and embark on an epic journey in this adventurous tale."
+      },
+      "genre": {
+        "S": "Action/Adventure"
+      },
+      "price": {
+        "N": "9.99"
+      },
+      "quantity": {
+        "N": "23"
+      },
+      "title": {
+        "S": "Watership Down"
+      },
+      "fiction?": {
+        "BOOL": true
+      },
+      "rating": {
+        "N": "4.6"
+      },
+      "reviews": {
+        "SS": [
+          "A rabbit's epic adventure that's both heartwarming and thrilling.",
+          "Adams' world-building is rich, and the characters are unforgettable.",
+          "Watership Down is a classic that captures the essence of storytelling."
+        ]
+      }
+    },
+    {
+      "isbn": {
+        "S": "1000000097"
+      },
+      "author": {
+        "S": "Robert Ludlum"
+      },
+      "description": {
+        "S": "Follow Jason Bourne as he unravels the mysteries of his own identity and battles international conspiracies."
+      },
+      "genre": {
+        "S": "Action/Adventure"
+      },
+      "price": {
+        "N": "14.99"
+      },
+      "quantity": {
+        "N": "15"
+      },
+      "title": {
+        "S": "The Bourne Identity"
+      },
+      "fiction?": {
+        "BOOL": true
+      },
+      "rating": {
+        "N": "4.5"
+      },
+      "reviews": {
+        "SS": [
+          "Bourne's journey is a rollercoaster of action and intrigue.",
+          "Ludlum's plots are intricate and pulse-pounding.",
+          "The Bourne Identity is a thrilling start to the series."
+        ]
+      }
+    },
+    {
+      "isbn": {
+        "S": "1000000098"
+      },
+      "author": {
+        "S": "Tom Clancy"
+      },
+      "description": {
+        "S": "Join Jack Ryan as he faces international terrorism and political intrigue in this action-packed novel."
+      },
+      "genre": {
+        "S": "Action/Adventure"
+      },
+      "price": {
+        "N": "13.99"
+      },
+      "quantity": {
+        "N": "14"
+      },
+      "title": {
+        "S": "Clear and Present Danger"
+      },
+      "fiction?": {
+        "BOOL": true
+      },
+      "rating": {
+        "N": "4.6"
+      },
+      "reviews": {
+        "SS": [
+          "A pulse-pounding race against time and enemies.",
+          "Clancy's geopolitical knowledge adds depth to the story.",
+          "Clear and Present Danger is a must-read for thriller enthusiasts."
+        ]
+      }
+    },
+    {
+      "isbn": {
+        "S": "1000000099"
+      },
+      "author": {
+        "S": "Ken Follett"
+      },
+      "description": {
+        "S": "Experience espionage, sabotage, and heroism in the midst of World War II in this historical adventure."
+      },
+      "genre": {
+        "S": "Action/Adventure"
+      },
+      "price": {
+        "N": "15.99"
+      },
+      "quantity": {
+        "N": "12"
+      },
+      "title": {
+        "S": "Eye of the Needle"
+      },
+      "fiction?": {
+        "BOOL": true
+      },
+      "rating": {
+        "N": "4.7"
+      },
+      "reviews": {
+        "SS": [
+          "A gripping WWII espionage thriller that's impossible to put down.",
+          "Follett's historical accuracy and character development shine.",
+          "Eye of the Needle is a classic in the genre."
+        ]
+      }
+    },
+    {
+      "isbn": {
+        "S": "1000000100"
+      },
+      "author": {
+        "S": "Andy McNab"
+      },
+      "description": {
+        "S": "Join Nick Stone, a former SAS operative, in his high-stakes adventures as a professional killer."
+      },
+      "genre": {
+        "S": "Action/Adventure"
+      },
+      "price": {
+        "N": "11.99"
+      },
+      "quantity": {
+        "N": "16"
+      },
+      "title": {
+        "S": "Remote Control"
+      },
+      "fiction?": {
+        "BOOL": true
+      },
+      "rating": {
+        "N": "4.5"
+      },
+      "reviews": {
+        "SS": [
+          "McNab's experience adds authenticity to this high-octane thriller.",
+          "Nick Stone is a compelling and conflicted hero.",
+          "Remote Control is a gripping and adrenaline-pumping read."
+        ]
+      }
+    }
+  ]

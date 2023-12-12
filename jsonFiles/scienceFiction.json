@@ -1,0 +1,722 @@
+[
+    {
+        "isbn": {
+            "S": "1000000041"
+        },
+        "author": {
+            "S": "Frank Herbert"
+        },
+        "description": {
+            "S": "Follow the epic journey of Paul Atreides as he navigates the treacherous politics of Arrakis and the power of spice."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Science Fiction"
+        },
+        "price": {
+            "N": "14.99"
+        },
+        "quantity": {
+            "N": "10"
+        },
+        "rating": {
+            "N": "4.6"
+        },
+        "reviews": {
+            "SS": [
+                "A sci-fi masterpiece that explores power and destiny.",
+                "Frank Herbert's world-building is unparalleled.",
+                "Dune is a must-read for fans of epic space opera."
+            ]
+        },
+        "title": {
+            "S": "Dune"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000042"
+        },
+        "author": {
+            "S": "Orson Scott Card"
+        },
+        "description": {
+            "S": "Join Ender Wiggin in his journey to save humanity in a world threatened by an alien species."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Science Fiction"
+        },
+        "price": {
+            "N": "12.99"
+        },
+        "quantity": {
+            "N": "8"
+        },
+        "rating": {
+            "N": "4.4"
+        },
+        "reviews": {
+            "SS": [
+                "Orson Scott Card's Ender's Game is a brilliant exploration of war and leadership.",
+                "A gripping and thought-provoking classic of the genre.",
+                "Ender's Game is a must-read for any science fiction enthusiast."
+            ]
+        },
+        "title": {
+            "S": "Ender's Game"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000043"
+        },
+        "author": {
+            "S": "William Gibson"
+        },
+        "description": {
+            "S": "Enter the cyberpunk world of Case, a washed-up hacker, as he uncovers the secrets of an AI and a powerful drug known as 'Neuromancer.'"
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Science Fiction"
+        },
+        "price": {
+            "N": "11.49"
+        },
+        "quantity": {
+            "N": "15"
+        },
+        "rating": {
+            "N": "4.3"
+        },
+        "reviews": {
+            "SS": [
+                "William Gibson's Neuromancer is a groundbreaking work in the cyberpunk genre.",
+                "A gripping and mind-bending exploration of technology and humanity.",
+                "Neuromancer is a must-read for fans of futuristic thrillers."
+            ]
+        },
+        "title": {
+            "S": "Neuromancer"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000044"
+        },
+        "author": {
+            "S": "Suzanne Collins"
+        },
+        "description": {
+            "S": "In a dystopian society, Katniss Everdeen must fight for her life in the Hunger Games, a televised battle to the death."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Science Fiction"
+        },
+        "price": {
+            "N": "13.49"
+        },
+        "quantity": {
+            "N": "14"
+        },
+        "rating": {
+            "N": "4.5"
+        },
+        "reviews": {
+            "SS": [
+                "Suzanne Collins' Hunger Games series is a thought-provoking commentary on reality television and authoritarianism.",
+                "A thrilling page-turner with compelling characters.",
+                "The Hunger Games is a modern classic of dystopian fiction."
+            ]
+        },
+        "title": {
+            "S": "The Hunger Games"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000045"
+        },
+        "author": {
+            "S": "Isaac Asimov"
+        },
+        "description": {
+            "S": "Join Hari Seldon as he predicts the fall of the Galactic Empire and strives to preserve knowledge in the face of a dark age."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Science Fiction"
+        },
+        "price": {
+            "N": "15.99"
+        },
+        "quantity": {
+            "N": "19"
+        },
+        "rating": {
+            "N": "4.7"
+        },
+        "reviews": {
+            "SS": [
+                "Isaac Asimov's Foundation series is a captivating exploration of a future empire.",
+                "A must-read for fans of epic space opera and grand ideas.",
+                "Foundation is a groundbreaking work of science fiction."
+            ]
+        },
+        "title": {
+            "S": "Foundation"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000046"
+        },
+        "author": {
+            "S": "Aldous Huxley"
+        },
+        "description": {
+            "S": "In a future society engineered for stability, Bernard Marx and Lenina Crowne discover the price of conformity and the loss of individuality."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Science Fiction"
+        },
+        "price": {
+            "N": "14.99"
+        },
+        "quantity": {
+            "N": "20"
+        },
+        "rating": {
+            "N": "4.6"
+        },
+        "reviews": {
+            "SS": [
+                "Aldous Huxley's Brave New World is a prophetic and thought-provoking novel.",
+                "A critical exploration of societal control and the human desire for happiness.",
+                "Brave New World is a classic of dystopian literature."
+            ]
+        },
+        "title": {
+            "S": "Brave New World"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000047"
+        },
+        "author": {
+            "S": "George Orwell"
+        },
+        "description": {
+            "S": "Winston Smith rebels against the oppressive regime of Big Brother in a bleak, surveillance-driven future."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Science Fiction"
+        },
+        "price": {
+            "N": "11.99"
+        },
+        "quantity": {
+            "N": "12"
+        },
+        "rating": {
+            "N": "4.7"
+        },
+        "reviews": {
+            "SS": [
+                "George Orwell's 1984 is a chilling and unforgettable vision of a dystopian society.",
+                "A masterpiece of political and psychological fiction.",
+                "1984 is a stark warning about the dangers of totalitarianism."
+            ]
+        },
+        "title": {
+            "S": "1984"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000048"
+        },
+        "author": {
+            "S": "Neal Stephenson"
+        },
+        "description": {
+            "S": "Hiro Protagonist, a hacker and pizza delivery driver, is drawn into a world of virtual reality, corporate espionage, and the enigmatic drug Snow Crash."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Science Fiction"
+        },
+        "price": {
+            "N": "13.99"
+        },
+        "quantity": {
+            "N": "17"
+        },
+        "rating": {
+            "N": "4.5"
+        },
+        "reviews": {
+            "SS": [
+                "Neal Stephenson's Snow Crash is a fast-paced and groundbreaking work of cyberpunk.",
+                "A thrilling blend of noir and science fiction in a post-cyberpunk world.",
+                "Snow Crash is a modern classic of speculative fiction."
+            ]
+        },
+        "title": {
+            "S": "Snow Crash"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000049"
+        },
+        "author": {
+            "S": "Ursula K. Le Guin"
+        },
+        "description": {
+            "S": "Join Genly Ai, an ambassador on a mission to a planet inhabited by androgynous beings, as he navigates cultural and political complexities."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Science Fiction"
+        },
+        "price": {
+            "N": "12.49"
+        },
+        "quantity": {
+            "N": "18"
+        },
+        "rating": {
+            "N": "4.6"
+        },
+        "reviews": {
+            "SS": [
+                "Ursula K. Le Guin's The Left Hand of Darkness is a groundbreaking exploration of gender and society.",
+                "A thought-provoking and beautifully written masterpiece of speculative fiction.",
+                "The Left Hand of Darkness is a classic of science fiction and social commentary."
+            ]
+        },
+        "title": {
+            "S": "The Left Hand of Darkness"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000050"
+        },
+        "author": {
+            "S": "Andy Weir"
+        },
+        "description": {
+            "S": "Astronaut Mark Watney is left stranded on Mars and must use his ingenuity and scientific skills to survive until rescue is possible."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Science Fiction"
+        },
+        "price": {
+            "N": "14.99"
+        },
+        "quantity": {
+            "N": "14"
+        },
+        "rating": {
+            "N": "4.7"
+        },
+        "reviews": {
+            "SS": [
+                "Andy Weir's The Martian is a thrilling and hilarious tale of survival on the Red Planet.",
+                "A masterclass in hard science fiction and creative problem-solving.",
+                "The Martian is a modern classic of space exploration and human resilience."
+            ]
+        },
+        "title": {
+            "S": "The Martian"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000051"
+        },
+        "author": {
+            "S": "Richard K. Morgan"
+        },
+        "description": {
+            "S": "In a world where consciousness can be transferred between bodies, Takeshi Kovacs, a former soldier, investigates a wealthy man's murder."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Science Fiction"
+        },
+        "price": {
+            "N": "15.99"
+        },
+        "quantity": {
+            "N": "11"
+        },
+        "rating": {
+            "N": "4.3"
+        },
+        "reviews": {
+            "SS": [
+                "Richard K. Morgan's Altered Carbon is a mind-bending cyberpunk thriller.",
+                "A gripping blend of noir and science fiction in a future noir world.",
+                "Altered Carbon is a must-read for fans of future noir and detective stories."
+            ]
+        },
+        "title": {
+            "S": "Altered Carbon"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000052"
+        },
+        "author": {
+            "S": "James S.A. Corey"
+        },
+        "description": {
+            "S": "Join Detective Miller and Captain Holden as they uncover a conspiracy that threatens humanity in a colonized solar system."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Science Fiction"
+        },
+        "price": {
+            "N": "13.99"
+        },
+        "quantity": {
+            "N": "19"
+        },
+        "rating": {
+            "N": "4.7"
+        },
+        "reviews": {
+            "SS": [
+                "James S.A. Corey's The Expanse series is a gripping adventure in space opera.",
+                "A thrilling blend of hard science fiction and space action.",
+                "Leviathan Wakes is a standout in the genre of space opera and interstellar mystery."
+            ]
+        },
+        "title": {
+            "S": "The Expanse: Leviathan Wakes"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000053"
+        },
+        "author": {
+            "S": "Audrey Niffenegger"
+        },
+        "description": {
+            "S": "Experience the love story of Clare and Henry, where Henry involuntarily time travels, creating challenges and joys in their relationship."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Science Fiction"
+        },
+        "price": {
+            "N": "12.49"
+        },
+        "quantity": {
+            "N": "10"
+        },
+        "rating": {
+            "N": "4.5"
+        },
+        "reviews": {
+            "SS": [
+                "Audrey Niffenegger's The Time Traveler's Wife is deeply emotional and thought-provoking.",
+                "A unique blend of romance and speculative fiction.",
+                "The Time Traveler's Wife is a modern classic of the genre."
+            ]
+        },
+        "title": {
+            "S": "The Time Traveler's Wife"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000054"
+        },
+        "author": {
+            "S": "Dan Simmons"
+        },
+        "description": {
+            "S": "Seven pilgrims share their stories while journeying to the distant world of Hyperion, each with a tale of their own."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Science Fiction"
+        },
+        "price": {
+            "N": "14.99"
+        },
+        "quantity": {
+            "N": "8"
+        },
+        "rating": {
+            "N": "4.4"
+        },
+        "reviews": {
+            "SS": [
+                "Dan Simmons' Hyperion is a literary masterpiece of interconnected stories.",
+                "A sweeping and epic work of science fiction.",
+                "Hyperion is a must-read for fans of complex storytelling and space opera."
+            ]
+        },
+        "title": {
+            "S": "Hyperion"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000055"
+        },
+        "author": {
+            "S": "Kim Stanley Robinson"
+        },
+        "description": {
+            "S": "Follow the challenges and political conflicts faced by the first 100 colonists on Mars in a meticulously researched and visionary epic."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Science Fiction"
+        },
+        "price": {
+            "N": "11.99"
+        },
+        "quantity": {
+            "N": "16"
+        },
+        "rating": {
+            "N": "4.5"
+        },
+        "reviews": {
+            "SS": [
+                "Kim Stanley Robinson's Mars trilogy is a classic of hard science fiction and political exploration.",
+                "A deeply political and scientific examination of colonizing Mars.",
+                "Red Mars is a classic in the genre and an essential read."
+            ]
+        },
+        "title": {
+            "S": "Red Mars"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000056"
+        },
+        "author": {
+            "S": "Douglas Adams"
+        },
+        "description": {
+            "S": "Join Arthur Dent and Ford Prefect on a comedic and philosophical journey through the cosmos, armed with the Hitchhiker's Guide to the Galaxy."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Science Fiction"
+        },
+        "price": {
+            "N": "10.99"
+        },
+        "quantity": {
+            "N": "12"
+        },
+        "rating": {
+            "N": "4.6"
+        },
+        "reviews": {
+            "SS": [
+                "Douglas Adams' Hitchhiker's Guide to the Galaxy series is a satirical masterpiece and a romp through the cosmos.",
+                "A comedic and philosophical exploration of the absurdity of the universe.",
+                "The Hitchhiker's Guide to the Galaxy is a beloved classic of science fiction humor."
+            ]
+        },
+        "title": {
+            "S": "The Hitchhiker's Guide to the Galaxy"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000057"
+        },
+        "author": {
+            "S": "Philip K. Dick"
+        },
+        "description": {
+            "S": "In a world of shifting realities, Joe Chip must navigate the absurdities of a future society where nothing is as it seems."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Science Fiction"
+        },
+        "price": {
+            "N": "13.49"
+        },
+        "quantity": {
+            "N": "13"
+        },
+        "rating": {
+            "N": "4.4"
+        },
+        "reviews": {
+            "SS": [
+                "Philip K. Dick's Ubik is a mind-bending exploration of reality and illusion.",
+                "A surreal and thought-provoking masterpiece of speculative fiction.",
+                "Ubik is a must-read for fans of mind-bending narratives and philosophical themes."
+            ]
+        },
+        "title": {
+            "S": "Ubik"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000058"
+        },
+        "author": {
+            "S": "H.G. Wells"
+        },
+        "description": {
+            "S": "In the late 19th century, the Martians launch an invasion of Earth, and humanity must fight for survival against superior technology."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Science Fiction"
+        },
+        "price": {
+            "N": "12.99"
+        },
+        "quantity": {
+            "N": "15"
+        },
+        "rating": {
+            "N": "4.3"
+        },
+        "reviews": {
+            "SS": [
+                "H.G. Wells' War of the Worlds is a classic of alien invasion and science fiction.",
+                "A thrilling and thought-provoking exploration of humanity's vulnerability.",
+                "War of the Worlds is a timeless work that remains relevant."
+            ]
+        },
+        "title": {
+            "S": "War of the Worlds"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000059"
+        },
+        "author": {
+            "S": "Arthur C. Clarke"
+        },
+        "description": {
+            "S": "A mysterious monolith is discovered on the Moon, leading to a journey to the outer reaches of the solar system in search of answers."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Science Fiction"
+        },
+        "price": {
+            "N": "14.99"
+        },
+        "quantity": {
+            "N": "16"
+        },
+        "rating": {
+            "N": "4.5"
+        },
+        "reviews": {
+            "SS": [
+                "Arthur C. Clarke's 2001: A Space Odyssey is a visionary and philosophical masterpiece of space exploration.",
+                "A blend of hard science fiction and cosmic wonder.",
+                "2001: A Space Odyssey is a classic that continues to inspire."
+            ]
+        },
+        "title": {
+            "S": "2001: A Space Odyssey"
+        }
+    },
+    {
+        "isbn": {
+            "S": "1000000060"
+        },
+        "author": {
+            "S": "Kurt Vonnegut"
+        },
+        "description": {
+            "S": "Billy Pilgrim becomes 'unstuck in time,' experiencing his life out of order and witnessing the firebombing of Dresden during World War II."
+        },
+        "fiction?": {
+            "BOOL": true
+        },
+        "genre": {
+            "S": "Science Fiction"
+        },
+        "price": {
+            "N": "11.99"
+        },
+        "quantity": {
+            "N": "11"
+        },
+        "rating": {
+            "N": "4.4"
+        },
+        "reviews": {
+            "SS": [
+                "Kurt Vonnegut's Slaughterhouse-Five is a surreal and anti-war classic of science fiction.",
+                "A unique and powerful narrative that challenges traditional storytelling.",
+                "Slaughterhouse-Five is a masterpiece that remains relevant."
+            ]
+        },
+        "title": {
+            "S": "Slaughterhouse-Five"
+        }
+    }
+]

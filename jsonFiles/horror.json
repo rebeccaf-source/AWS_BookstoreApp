@@ -1,0 +1,512 @@
+{
+    "books": [
+      {
+        "isbn": "1234567890",
+        "title": "The Haunting of Hill House",
+        "author": "Shirley Jackson",
+        "price": "$12.99",
+        "description": "A chilling tale of a haunted mansion that has stood for 80 years, featuring four people who come to stay there and experience its sinister power.",
+        "reviews": [
+          "This is a classic in the horror genre. Shirley Jackson's writing is both eerie and captivating.",
+          "I couldn't put this book down! The atmosphere and tension were incredible.",
+          "If you want a spine-tingling, psychological horror, this is the one."
+        ],
+        "rating": 4.5
+      },
+      {
+        "isbn": "2345678901",
+        "title": "It",
+        "author": "Stephen King",
+        "price": "$14.95",
+        "description": "Pennywise the Dancing Clown terrorizes the small town of Derry, Maine, in this masterful horror novel by Stephen King.",
+        "reviews": [
+          "A true masterpiece of horror. King's storytelling is unparalleled.",
+          "I had nightmares after reading this book. It's pure terror.",
+          "The characters are so well-developed; you feel like you're part of the Losers' Club."
+        ],
+        "rating": 4.8
+      },
+      {
+        "isbn": "3456789012",
+        "title": "Dracula",
+        "author": "Bram Stoker",
+        "price": "$9.99",
+        "description": "Bram Stoker's iconic novel about Count Dracula, a vampire who threatens the safety of London, is a classic horror story that has stood the test of time.",
+        "reviews": [
+          "The original vampire tale. It's both scary and beautifully written.",
+          "This book is a must-read for any horror fan. It's a timeless classic.",
+          "Stoker's descriptions of Dracula are incredibly vivid and frightening."
+        ],
+        "rating": 4.7
+      },
+      {
+        "isbn": "4567890123",
+        "title": "Psycho",
+        "author": "Robert Bloch",
+        "price": "$11.99",
+        "description": "Robert Bloch's psychological thriller about the unsettling events at the Bates Motel and the mysterious Norman Bates is a true horror classic.",
+        "reviews": [
+          "A thrilling and suspenseful read. Norman Bates is a character you won't forget.",
+          "The tension and suspense are perfectly executed. A real page-turner.",
+          "I've never been so creeped out by a motel. A classic in the horror genre."
+        ],
+        "rating": 4.4
+      },
+      {
+        "isbn": "5678901234",
+        "title": "Bird Box",
+        "author": "Josh Malerman",
+        "price": "$10.50",
+        "description": "Josh Malerman's post-apocalyptic horror novel tells the story of a mother and her two children, blindfolded and trying to survive in a world filled with supernatural creatures that drive people to madness.",
+        "reviews": [
+          "A gripping and unique horror novel. The concept is terrifying.",
+          "I couldn't stop reading, even with my heart racing. A modern horror gem.",
+          "The fear of the unknown is the scariest part of this book."
+        ],
+        "rating": 4.6
+      },
+      {
+        "isbn": "6789012345",
+        "title": "The Shining",
+        "author": "Stephen King",
+        "price": "$13.75",
+        "description": "Stephen King's classic story of the Torrance family's descent into madness while serving as caretakers for the haunted Overlook Hotel is a must-read for horror fans.",
+        "reviews": [
+          "King's writing draws you into the horror of the hotel. Absolutely chilling!",
+          "Jack Torrance is one of the most memorable villains in the horror genre.",
+          "A psychological rollercoaster that will leave you breathless."
+        ],
+        "rating": 4.7
+      },
+      {
+        "isbn": "7890123456",
+        "title": "The Exorcist",
+        "author": "William Peter Blatty",
+        "price": "$12.99",
+        "description": "William Peter Blatty's tale of the demonic possession of a young girl and the desperate exorcism attempts to save her soul is a terrifying and unforgettable horror story.",
+        "reviews": [
+          "The scariest book I've ever read. It gave me nightmares for weeks.",
+          "This book is an absolute classic of the horror genre. So intense and suspenseful.",
+          "The power of evil and the battle for a girl's soul is depicted in the most horrifying way."
+        ],
+        "rating": 4.6
+      },
+      {
+        "isbn": "8901234567",
+        "title": "Hell House",
+        "author": "Richard Matheson",
+        "price": "$9.95",
+        "description": "Richard Matheson's novel follows a team of researchers who enter the notorious Belasco House, known as the Mount Everest of haunted houses, to uncover its dark secrets.",
+        "reviews": [
+          "A masterpiece of haunted house horror. Matheson's storytelling is gripping.",
+          "This book will make you afraid of the dark. The malevolence of Hell House is palpable.",
+          "A haunting exploration of the supernatural and the human spirit."
+        ],
+        "rating": 4.4
+      },
+      {
+        "isbn": "9012345678",
+        "title": "The Silence of the Lambs",
+        "author": "Thomas Harris",
+        "price": "$14.50",
+        "description": "Thomas Harris's thriller introduces the brilliant but insane Dr. Hannibal Lecter and FBI trainee Clarice Starling, who must consult him to catch a serial killer known as Buffalo Bill.",
+        "reviews": [
+          "A psychological thriller at its best. Hannibal Lecter is a character you won't forget.",
+          "The suspense and cat-and-mouse game between Clarice and Lecter are riveting.",
+          "A chilling exploration of the human psyche and the darkest corners of the criminal mind."
+        ],
+        "rating": 4.7
+      },
+      {
+        "isbn": "0123456789",
+        "title": "The Girl with All the Gifts",
+        "author": "M.R. Carey",
+        "price": "$11.75",
+        "description": "M.R. Carey's post-apocalyptic thriller follows a group of survivors, including a young girl with a mysterious gift, as they navigate a world overrun by fungal zombies.",
+        "reviews": [
+          "A unique and compelling take on the zombie genre. Carey's storytelling is masterful.",
+          "This book is as much about the human condition as it is about survival. A must-read for zombie enthusiasts.",
+          "The character of Melanie is both endearing and chilling."
+        ],
+        "rating": 4.6
+      },
+      {
+        "isbn": "1234567890",
+        "title": "American Psycho",
+        "author": "Bret Easton Ellis",
+        "price": "$12.99",
+        "description": "Bret Easton Ellis's novel follows the life of Patrick Bateman, a wealthy investment banker who also happens to be a psychopathic serial killer.",
+        "reviews": [
+          "A disturbing and satirical look at the excesses of the 1980s. Ellis's writing is both shocking and darkly humorous.",
+          "This book is not for the faint of heart. It's a chilling exploration of the dark side of humanity.",
+          "A dark and twisted masterpiece that will leave you with chills."
+        ],
+        "rating": 4.5
+      },
+      {
+        "isbn": "2345678901",
+        "title": "The Ruins",
+        "author": "Scott Smith",
+        "price": "$10.99",
+        "description": "Scott Smith's horror novel tells the story of a group of American tourists who venture into the Mexican jungle and discover an ancient, malevolent force that lurks within the ruins.",
+        "reviews": [
+          "A tense and gripping story that will make you think twice about exploring ancient ruins.",
+          "Smith's writing is chilling. You'll feel the paranoia and fear of the characters.",
+          "A superb blend of survival horror and psychological terror."
+        ],
+        "rating": 4.4
+      },
+      {
+        "isbn": "3456789012",
+        "title": "House of Leaves",
+        "author": "Mark Z. Danielewski",
+        "price": "$16.75",
+        "description": "Mark Z. Danielewski's innovative and mind-bending novel explores a family's experience in a labyrinthine, ever-changing house that defies the laws of physics and reality.",
+        "reviews": [
+          "A literary masterpiece of horror. It's a book that messes with your mind in the best way.",
+          "The unconventional formatting adds to the disorienting experience. Truly unique and unsettling.",
+          "I've never read anything quite like this. It's an exploration of fear and the unknown."
+        ],
+        "rating": 4.7
+      },
+      {
+        "isbn": "4567890123",
+        "title": "The Babadook",
+        "author": "Jennifer Kent",
+        "price": "$11.25",
+        "description": "Based on the cult-classic horror film, this novelization by Jennifer Kent tells the story of a mother and son tormented by a sinister children's book character that comes to life.",
+        "reviews": [
+          "The Babadook is just as terrifying on the page as on the screen. An excellent adaptation.",
+          "The tension and atmosphere in this book are palpable. It's a haunting experience.",
+          "I couldn't sleep after reading this. The Babadook is a character you won't forget."
+        ],
+        "rating": 4.5
+      },
+      {
+        "isbn": "5678901234",
+        "title": "The Terror",
+        "author": "Dan Simmons",
+        "price": "$14.99",
+        "description": "Dan Simmons's historical horror novel is a fictional account of the doomed Franklin Expedition's attempt to find the Northwest Passage, with a supernatural twist involving a monstrous creature stalking the crew.",
+        "reviews": [
+          "A chilling blend of historical fiction and horror. The sense of isolation and terror is overwhelming.",
+          "Simmons's research and attention to detail make this a gripping read. Highly recommended.",
+          "The Arctic setting and the slow-burning horror make this one of the best horror novels I've read."
+        ],
+        "rating": 4.7
+      },
+      {
+        "isbn": "6789012345",
+        "title": "The Troop",
+        "author": "Nick Cutter",
+        "price": "$10.99",
+        "description": "Nick Cutter's horror novel follows a group of Boy Scouts on a remote island camping trip, where they encounter a deadly contagion that turns them into monsters.",
+        "reviews": [
+          "A gruesome and intense read. Cutter doesn't hold back on the horror.",
+          "The characters' descent into madness is brilliantly portrayed. A terrifying and unputdownable book.",
+          "This is the kind of horror that will make your skin crawl. A modern classic."
+        ],
+        "rating": 4.6
+      },
+      {
+        "isbn": "7890123456",
+        "title": "Mexican Gothic",
+        "author": "Silvia Moreno-Garcia",
+        "price": "$12.50",
+        "description": "Silvia Moreno-Garcia's novel is a gothic horror tale set in 1950s Mexico, where a socialite travels to a haunted mansion to rescue her cousin from a terrifying fate.",
+        "reviews": [
+          "A beautifully written and atmospheric gothic horror novel. It oozes tension and mystery.",
+          "The setting and the creepy atmosphere are superb. Moreno-Garcia is a master of the genre.",
+          "This is a fresh take on the gothic horror genre with a strong and resilient heroine."
+        ],
+        "rating": 4.6
+      },
+      {
+        "isbn": "9012345678",
+        "title": "Annihilation",
+        "author": "Jeff VanderMeer",
+        "price": "$11.75",
+        "description": "Jeff VanderMeer's novel is the first in the Southern Reach Trilogy, where a team of female scientists ventures into a mysterious and deadly environmental zone known as Area X.",
+        "reviews": [
+          "A mind-bending and surreal experience. VanderMeer's writing is both poetic and chilling.",
+          "This book will leave you with more questions than answers. It's a journey into the unknown.",
+          "Annihilation is a haunting exploration of the uncanny and the unknowable."
+        ],
+        "rating": 4.7
+      },
+      {
+        "isbn": "0123456789",
+        "title": "The Witching Hour",
+        "author": "Anne Rice",
+        "price": "$13.99",
+        "description": "Anne Rice's novel delves into the Mayfair Witches, a powerful and haunted family, and their connection to the supernatural, weaving a tale of dark secrets and ancient magic.",
+        "reviews": [
+          "A mesmerizing and epic tale of witches. Anne Rice's writing is spellbinding.",
+          "The Mayfair family is one you'll want to follow into the darkest corners of the supernatural world.",
+          "This book immerses you in a world of magic and malevolence."
+        ],
+        "rating": 4.6
+      },
+      {
+        "isbn": "1234567890",
+        "title": "Heart-Shaped Box",
+        "author": "Joe Hill",
+        "price": "$11.95",
+        "description": "Joe Hill's chilling novel follows a retired rock star who purchases a haunted suit online, setting off a terrifying chain of supernatural events that threaten his life and sanity.",
+        "reviews": [
+          "Joe Hill delivers horror that's as good as, if not better than, his father's. This book is a masterpiece.",
+          "The ghostly terror in this book is relentless. I couldn't put it down.",
+          "A haunting and suspenseful journey that will keep you up at night."
+        ],
+        "rating": 4.7
+      },
+      {
+        "isbn": "2345678901",
+        "title": "Pet Sematary",
+        "author": "Stephen King",
+        "price": "$12.99",
+        "description": "Stephen King's novel explores the darkness of grief and the horrifying consequences of bringing the dead back to life in a cursed burial ground.",
+        "reviews": [
+          "A chilling masterpiece from the King of Horror. It's a journey into the darkest corners of the human soul.",
+          "This book will make you question the lengths you'd go to for a loved one. A must-read for King fans.",
+          "The horror of loss and resurrection is expertly portrayed."
+        ],
+        "rating": 4.8
+      },
+      {
+        "isbn": "3456789012",
+        "title": "The Woman in Black",
+        "author": "Susan Hill",
+        "price": "$10.50",
+        "description": "Susan Hill's ghost story takes place in a remote English village, where a malevolent spirit haunts Eel Marsh House, terrorizing the locals and a young lawyer sent to settle the estate.",
+        "reviews": [
+          "A classic ghost story that will send shivers down your spine. Susan Hill's storytelling is exceptional.",
+          "The atmosphere and tension in this book are perfectly crafted. It's a masterclass in suspense.",
+          "The Woman in Black is a spectral character you won't forget."
+        ],
+        "rating": 4.5
+      },
+      {
+        "isbn": "4567890123",
+        "title": "The Hellbound Heart",
+        "author": "Clive Barker",
+        "price": "$11.99",
+        "description": "Clive Barker's novella introduces readers to the sadomasochistic Cenobites, led by the iconic Pinhead, who are summoned by a mysterious puzzle box, bringing pain and pleasure to those who open it.",
+        "reviews": [
+          "A dark and perverse journey into the world of pain and pleasure. Barker's imagination knows no bounds.",
+          "This is horror that pushes boundaries and challenges your perception of reality. An unforgettable experience.",
+          "The Cenobites are some of the most original and terrifying creations in the genre."
+        ],
+        "rating": 4.6
+      },
+      {
+        "isbn": "5678901234",
+        "title": "The Passage",
+        "author": "Justin Cronin",
+        "price": "$14.75",
+        "description": "Justin Cronin's post-apocalyptic novel explores a world overrun by vampiric creatures created by a government experiment gone awry, and the survivors who must navigate this new and deadly landscape.",
+        "reviews": [
+          "A monumental work of apocalyptic horror. Cronin's world-building and character development are outstanding.",
+          "This book is a blend of horror, science fiction, and epic storytelling. A must-read for fans of post-apocalyptic fiction.",
+          "The vampires in this novel are truly terrifying and unique."
+        ],
+        "rating": 4.7
+      },
+      {
+        "isbn": "6789012345",
+        "title": "The Elementals",
+        "author": "Michael McDowell",
+        "price": "$12.50",
+        "description": "Michael McDowell's novel follows a Southern family with a dark and haunted history as they confront supernatural forces on a remote Alabama beach.",
+        "reviews": [
+          "A Southern gothic gem with a touch of the supernatural. McDowell's storytelling is rich and atmospheric.",
+          "This book will immerse you in the deep South and its haunted past. The horror is as much psychological as it is supernatural.",
+          "The Elementals is a haunting exploration of family secrets and ancestral curses."
+        ],
+        "rating": 4.5
+      },
+      {
+        "isbn": "7890123456",
+        "title": "Annabelle",
+        "author": "Ruby Jean Jensen",
+        "price": "$9.99",
+        "description": "Ruby Jean Jensen's horror novel revolves around a cursed doll named Annabelle and the terror it brings to a family when it is discovered in an old house.",
+        "reviews": [
+          "A classic tale of cursed dolls and supernatural horror. Jensen's writing is spine-tingling.",
+          "Annabelle is a character that will give you nightmares. A great addition to the haunted doll subgenre.",
+          "This book is a creepy and suspenseful read that will make you wary of old toys."
+        ],
+        "rating": 4.3
+      },
+      {
+        "isbn": "9012345678",
+        "title": "The Haunting of Ashburn House",
+        "author": "Darcy Coates",
+        "price": "$11.75",
+        "description": "Darcy Coates's novel follows a woman who inherits a mysterious old mansion, only to discover that it holds dark secrets and supernatural entities that threaten her sanity.",
+        "reviews": [
+          "A chilling and atmospheric haunted house story. Coates's writing is immersive and spooky.",
+          "The secrets of Ashburn House are revealed slowly, keeping you on the edge of your seat. A great haunted house tale.",
+          "This book is a page-turner that will make you question the history of old estates."
+        ],
+        "rating": 4.4
+      },
+      {
+        "isbn": "0123456789",
+        "title": "The Girl Next Door",
+        "author": "Jack Ketchum",
+        "price": "$10.99",
+        "description": "Jack Ketchum's novel is based on a true story and delves into the horrifying abuse and torment inflicted upon a young girl by her caretakers and the neighbors who turn a blind eye.",
+        "reviews": [
+          "A disturbing and unflinching exploration of human cruelty. Ketchum's storytelling is both harrowing and important.",
+          "This book is not for the faint of heart. It's a horrifying and tragic tale of abuse and complicity.",
+          "The Girl Next Door is a haunting and unforgettable work that will leave you deeply disturbed."
+        ],
+        "rating": 4.6
+      },
+      {
+        "isbn": "1234567890",
+        "title": "The Fisherman",
+        "author": "John Langan",
+        "price": "$13.50",
+        "description": "John Langan's novel follows a grieving widower who takes up fishing as a way to cope with his loss but stumbles upon a dark and ancient secret in the waters of upstate New York.",
+        "reviews": [
+          "A haunting and beautifully written story. Langan's prose is both literary and chilling.",
+          "The psychological horror in this book is layered and deeply unsettling. A must-read for fans of cosmic horror.",
+          "The Fisherman is a modern classic that pays tribute to Lovecraftian horror."
+        ],
+        "rating": 4.7
+      },
+      {
+        "isbn": "2345678901",
+        "title": "The Little Friend",
+        "author": "Donna Tartt",
+        "price": "$14.99",
+        "description": "Donna Tartt's dark and suspenseful novel explores the mystery of a young girl's murder in a small Southern town and the family secrets that shroud the truth.",
+        "reviews": [
+          "Tartt's storytelling is mesmerizing. She crafts a tale that is as much a Southern gothic as it is a psychological thriller.",
+          "This book is a slow-burning and atmospheric journey. The characters and their hidden truths are captivating.",
+          "The Little Friend is a haunting exploration of childhood, loss, and the weight of the past."
+        ],
+        "rating": 4.7
+      },
+      {
+        "isbn": "3456789012",
+        "title": "The Chalk Man",
+        "author": "C.J. Tudor",
+        "price": "$10.99",
+        "description": "C.J. Tudor's novel is a gripping and atmospheric tale of a group of childhood friends who are haunted by a series of chalk drawings that lead to dark secrets and a terrifying revelation.",
+        "reviews": [
+          "Tudor's debut novel is a masterclass in suspense. It's a rollercoaster ride of mystery and horror.",
+          "The Chalk Man keeps you guessing until the very end. The sense of dread never lets up.",
+          "A haunting and cleverly crafted story that will make you see childhood innocence in a new light."
+        ],
+        "rating": 4.5
+      },
+      {
+        "isbn": "4567890123",
+        "title": "Imajica",
+        "author": "Clive Barker",
+        "price": "$15.75",
+        "description": "Clive Barker's epic fantasy horror novel explores the existence of parallel worlds, mystical realms, and powerful beings as it takes readers on a journey through the Imajica.",
+        "reviews": [
+          "Barker's imagination knows no bounds. Imajica is a sprawling and vivid work of dark fantasy.",
+          "This book is a mesmerizing and strange journey through otherworldly realms. A true masterpiece of the genre.",
+          "The world-building and the characters in Imajica are unlike anything you've encountered before."
+        ],
+        "rating": 4.7
+      },
+      {
+        "isbn": "5678901234",
+        "title": "The Ritual",
+        "author": "Adam Nevill",
+        "price": "$12.50",
+        "description": "Adam Nevill's novel follows a group of friends on a hiking trip in the Scandinavian wilderness, where they encounter a malevolent force that threatens to consume them.",
+        "reviews": [
+          "A chilling and atmospheric tale of survival and horror in the wilderness. Nevill's writing is intense and unsettling.",
+          "The Ritual is a relentless descent into terror. You won't be able to escape the fear.",
+          "This book will make you question the very concept of evil and the limits of human endurance."
+        ],
+        "rating": 4.6
+      },
+      {
+        "isbn": "6789012345",
+        "title": "The Silent Patient",
+        "author": "Alex Michaelides",
+        "price": "$14.99",
+        "description": "Alex Michaelides's psychological thriller tells the story of a famous artist who murders her husband and then becomes mute, leading to her commitment to a secure psychiatric facility. A psychotherapist becomes obsessed with uncovering the truth behind her silence.",
+        "reviews": [
+          "A mind-bending and thought-provoking psychological thriller. Michaelides keeps you guessing until the last page.",
+          "The character of Alicia Berenson is both enigmatic and captivating. A gripping exploration of the human psyche.",
+          "The Silent Patient is a chilling journey into the complexities of the mind and the secrets we keep."
+        ],
+        "rating": 4.8
+      },
+      {
+        "isbn": "7890123456",
+        "title": "The Deep",
+        "author": "Nick Cutter",
+        "price": "$11.25",
+        "description": "Nick Cutter's horror novel follows a veterinarian who is sent to a research station at the bottom of the ocean to investigate a mysterious and deadly disease that affects the crew, leading to a descent into madness and terror.",
+        "reviews": [
+          "A claustrophobic and nightmarish descent into the depths of the ocean. Cutter's writing is visceral and terrifying.",
+          "The horror in this book is relentless and unrelenting. It's a deep-sea nightmare that will give you chills.",
+          "The Deep is a haunting exploration of isolation, fear, and the unknown."
+        ],
+        "rating": 4.6
+      },
+      {
+        "isbn": "9012345678",
+        "title": "The Secret of Crickley Hall",
+        "author": "James Herbert",
+        "price": "$10.99",
+        "description": "James Herbert's novel follows a grieving family who moves to Crickley Hall, a haunted and ancient mansion, where they begin to experience supernatural phenomena and uncover the dark secrets of the house.",
+        "reviews": [
+          "A classic haunted house tale that will make you jump at every creak and whisper. Herbert's storytelling is gripping.",
+          "The atmosphere and the sense of dread in this book are palpable. It's a terrifying experience.",
+          "The Secret of Crickley Hall is a chilling exploration of grief, loss, and the haunting past."
+        ],
+        "rating": 4.5
+      },
+      {
+        "isbn": "0123456789",
+        "title": "The Cabin at the End of the World",
+        "author": "Paul Tremblay",
+        "price": "$12.50",
+        "description": "Paul Tremblay's novel tells the story of a vacationing family who are terrorized by a group of strangers claiming the world is on the brink of apocalypse, and they must make a horrifying choice to save it.",
+        "reviews": [
+          "A tense and psychologically harrowing thriller. Tremblay's storytelling is both thought-provoking and terrifying.",
+          "The suspense and moral dilemmas in this book are excruciating. It's a relentless examination of human nature under pressure.",
+          "The Cabin at the End of the World is a chilling exploration of the lengths people will go to in the face of fear and chaos."
+        ],
+        "rating": 4.6
+      },
+      {
+        "isbn": "2345678901",
+        "title": "The Whisper Man",
+        "author": "Alex North",
+        "price": "$11.75",
+        "description": "Alex North's thriller follows a father and son who move to a small town with a dark history, where a serial killer once preyed on young children. Now, a new series of abductions begins, and the past returns to haunt them.",
+        "reviews": [
+          "A chilling and atmospheric thriller. North's storytelling is both suspenseful and haunting.",
+          "The Whisper Man will make you shiver with each turn of the page. It's a spine-tingling experience.",
+          "This book is a masterful exploration of the lingering impact of past horrors and the fear of the unknown."
+        ],
+        "rating": 4.7
+      },
+      {
+        "isbn": "3456789012",
+        "title": "The Family Plot",
+        "author": "Cherie Priest",
+        "price": "$10.99",
+        "description": "Cherie Priest's novel follows a salvage crew hired to strip an old estate of its valuables. They soon discover that the house is haunted, and the malevolent spirits have other plans for them.",
+        "reviews": [
+          "A haunted house story with a unique twist. Priest's storytelling is atmospheric and suspenseful.",
+          "The sense of dread and the unraveling mystery in this book are expertly crafted. It's a chilling and engaging read.",
+          "The Family Plot is a haunting exploration of history, greed, and the restless dead."
+        ],
+        "rating": 4.5
+      }
+    ]
+  }
+  
